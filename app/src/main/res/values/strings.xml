@@ -1,0 +1,2144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Millennio</string>
+
+    //TUTORIAL
+    <string name="choose">Choose a language</string>
+    <string name="next">next</string>
+    <string name="welcome">Welcome to Millennio!</string>
+    <string name="nineth">Guess the year in which a historic event happened, something was invented, a movie, videogame or book was released</string>
+    <string name="tenth">The game</string>
+    <string name="eleventh">You start every game with a set number of points depending on the category, you find them at the top of the screen</string>
+    <string name="twelth">For every correct answer you will gain points, but if you are wrong you will lose the difference between the correct answer and yours</string>
+    <string name="thirteenth">Answer as many questions as you can, the game ends if you run out of points</string>
+    <string name="goodluck">Good luck!</string>
+
+
+    //MENU ACTIVITY
+    <string name="newGame">New Game</string>
+    <string name="singlePlayer">SinglePlayer</string>
+    <string name="oneVone">One vs One</string>
+    <string name="statistics">statistics</string>
+    <string name="share">share</string>
+    <string name="language">English</string>
+    <string name="shareTitle">Share with a friend</string>
+    <string name="draw">DRAW</string>
+
+
+    <string name="easy">Easy: </string>
+    <string name="hard">Hard: </string>
+    <string name="gamesPlayed">Games</string>
+    <string name="correctAnswers">Correct Answers</string>
+    <string name="post2010">last 10 years</string>
+    <string name="influencial">most influential</string>
+
+
+    //ACTIVITY START
+    <string name="START">play</string>
+
+    <string name="initialPoints">Initial Points: </string>
+    <string name="pointsCorrect">Points on correct answer:</string>
+    <string name="minimumYear">minimum year:</string>
+
+
+    <string name="score">score : 0</string>
+
+
+    //ANSWER ACTIVITY
+    <string name="close">close</string>
+    <string name="result">Result :</string>
+
+
+    //RESULT ACTIVITY
+    <string name="newHighScore">NEW High Score</string>
+    <string name="highScore">High Score</string>
+    <string name="gameOver">GAME OVER</string>
+    <string name="tryAgain">Try Again</string>
+    <string name="quit">Exit</string>
+
+    //MULTIPLAYER
+    <string name="player">PLAYER</string>
+    <string name="winner">winner</string>
+
+    //CATEGORIE
+    <string name="categories">CATEGORIES</string>
+    <string name="historyCategory">HISTORY</string>
+    <string name="inventionsCategory">INVENTIONS</string>
+    <string name="moviesCategory">MOVIES</string>
+    <string name="gamesCategory">VIDEOGAMES</string>
+    <string name="booksCategory">LITERATURE</string>
+    <string name="singlesCategory">SINGLES</string>
+    <string name="albumsCategory">ALBUMS</string>
+
+
+    <string name="normalDifficulty">easy</string>
+    <string name="hardDifficulty">hard</string>
+
+    <string name="averageScore">average score</string>
+
+
+    <string-array name="historyEasy">
+        <item>"The Romans are defeated by the Germans in the battle of Teutoburg"</item>
+        <item>"The Romans start the invasion of Great Britain"</item>
+        <item>"The fire of Rome starts the first mass persecution of the Christians"</item>
+        <item>"Pompei and Ercolano are destroyed by the volcano Vesuvio"</item>
+        <item>"The construction of the Colosseum is completed"</item>
+        <item>"The construction of Hadrian's Wall starts"</item>
+        <item>"End of the Roman Empire of the West"</item>
+        <item>"Charles the Great becomes emperor of the Holy Roman Empire"</item>
+        <item>"Pope Urban II starts the first crusade"</item>
+        <item>"The fall of Costantinople sets the end of the Byzantine Empire"</item>
+
+        <item>"Christopher Columbus discovers America"</item>
+        <item>"Michelangelo starts sculpting the David"</item>
+        <item>"Leonardo da Vinci starts painting the Mona Lisa"</item>
+        <item>"Michelangelo start painting the Sistine Chapel"</item>
+        <item>"Magellan completes the circumnavigation of the Earth"</item>
+        <item>"Hernan Cortes start the spanish conquest of Mexico"</item>
+        <item>"Francisco Pizarro leads the spanish conquest of the Incan Empire"</item>
+        <item>"Mary Tudor becomes the first queen of England"</item>
+        <item>"The english armies conquer New Amsterdam and rename it New York"</item>
+        <item>"The United States Declaration of Independence"</item>
+
+        <item>"The spanish colonizers found Los Angeles"</item>
+        <item>"The United States Constitution is written in Philadelphia"</item>
+        <item>"Foundation of the first british colony in Australia, Sidney"</item>
+        <item>"George Washington is elected as the first president of the United States"</item>
+        <item>"Start of the French Revolution"</item>
+        <item>"Napoleon proclaims himself Emperor of France"</item>
+        <item>"The world population reaches 1 billion"</item>
+        <item>"Napoleon starts the invasion of Russia"</item>
+        <item>"Napoleon is exiled on Elba"</item>
+        <item>"Napoleon is defeated in Waterloo"</item>
+
+        <item>"The first Universal Exposition is held in London"</item>
+        <item>"Start of the American Civil War"</item>
+        <item>"The first section of the London Underground opens"</item>
+        <item>"Assassination of Abraham Lincoln"</item>
+        <item>"Start of the second industrial revolution"</item>
+        <item>"The Berlin Conference regulates European colonization and trade in Africa"</item>
+        <item>"The Statue of Liberty begins construction"</item>
+        <item>"Inauguration of the Tour Eiffel"</item>
+        <item>"Introduction of the first ever universal suffrage in New Zealand"</item>
+        <item>"The first modern Olympics are held in Athens"</item>
+
+        <item>"The first Nobel prize"</item>
+        <item>"The Wright brothers complete the first cotrolled flight"</item>
+        <item>"Construction of the Panama Canal begins"</item>
+        <item>"Albert Einstein formulates the theory of relativity"</item>
+        <item>"The Titanic sinks"</item>
+        <item>"Ford Motors introduces the first assembly line"</item>
+        <item>"The murder of the Archduke Ferdinand of Austria sets off the first World War"</item>
+        <item>"The Treaty of London leads to Italy joining the War"</item>
+        <item>"First use of chemical weapons in the Battle of Neuve"</item>
+        <item>"Start of the Russian Civil War"</item>
+
+        <item>"The armistice of 11 November puts an end to the first World War"</item>
+        <item>"Poland, Ukraine and more nations declare independence from Russia"</item>
+        <item>"The Treaty of Versailles rewrites Europe's borders"</item>
+        <item>"Institution of the Republic of Weimar"</item>
+        <item>"Benito Mussolini creates the National-Socialist Party"</item>
+        <item>"Adolf Hitler becomes the leader of the National-Socialist Party"</item>
+        <item>"Italy starts the reconquest of Libya"</item>
+        <item>"The March on Rome leads to Benito Mussolini gaining power over Italy"</item>
+        <item>"Howard Carter discoveres the Tomb of Tutankhamun"</item>
+        <item>"Foundation of the USSR"</item>
+
+        <item>"First publication of the Times Magazine"</item>
+        <item>"Foundation of the Walt Disney Company"</item>
+        <item>"Publication of the Mein Kampf"</item>
+        <item>"Stalin becomes the leader of the Sovietic Union"</item>
+        <item>"The world population reaches 2 billion"</item>
+        <item>"The Wall Street crysis start the Great Depression"</item>
+        <item>"Pope Pius XI signs the Latral Pacts with Mussolini"</item>
+        <item>"First Academy Awards"</item>
+        <item>"Construction of the Empire State Building starts"</item>
+        <item>"Adoption of the current flag of the United States"</item>
+
+        <item>"Mao Zedung starts the Chinese Soviet Republic"</item>
+        <item>"For the first time the german Nazi party wins the majority in parliament"</item>
+        <item>"Adolf Hitler becomes chancellor of Germany"</item>
+        <item>"Adolf Hitler declares himself führer of Germany"</item>
+        <item>"Led by Mussolini, Italy conquers Abyssinia"</item>
+        <item>"Italy annexes Ethiopia"</item>
+        <item>"The Anschluss joins Austria to Germany"</item>
+        <item>"The Times Magazine elects Adolf Hitler Person of the Year"</item>
+        <item>"Superman first appears in a DC comic"</item>
+        <item>"Francisco Franco becomes dictator of Spain"</item>
+
+        <item>"The german invasion of Poland starts the second World War"</item>
+        <item>"Nazi Germany invades France, Norway, Denmark and the Netherlands"</item>
+        <item>"Winston Churchill becomes Prime Minister of the United Kingdom"</item>
+        <item>"The attack on Pearl Harbour leads to the United States joining the War"</item>
+        <item>"Hitler starts the invasion of the Sovietic Union"</item>
+        <item>"The Battle of Stalingrad ends with more than 2 million casualties"</item>
+        <item>"The Normandy landings"</item>
+        <item>"Bombing of Dresden by the allied "</item>
+        <item>"Atomic bombs are dropped on Hiroshima and Nagasaki"</item>
+        <item>"Birth of the United Nations"</item>
+
+        <item>"Italy becomes a Republic"</item>
+        <item>"First image of earth from space"</item>
+        <item>"Birth of the Central Intelligence Agency"</item>
+        <item>"The United Nations establish the Independent State of Israel"</item>
+        <item>"Beginning of the apartheid in South Africa"</item>
+        <item>"Division between South Corea and North Corea"</item>
+        <item>"Creation of the NATO"</item>
+        <item>"Division between East Germany and West Germany"</item>
+        <item>"Beginning of the Corean War"</item>
+        <item>"First climb of the Mount Everest"</item>
+
+        <item>"The launch of the Sputnik 1 sets the start of the space age"</item>
+        <item>"Creation of the NASA"</item>
+        <item>"Beginning of the War in Vietnam"</item>
+        <item>"First image of the dark side of the Moon"</item>
+        <item>"The world population reaches 3 billion"</item>
+        <item>"First human descent in the Mariana Trench"</item>
+        <item>"The Beatles are formed in Liverpool"</item>
+        <item>"Construction of the Berlin Wall"</item>
+        <item>"First man in space"</item>
+        <item>"Martin Luther King Jr hold his famous speech 'I have a dream' "</item>
+
+        <item>"Murder of John F. Kennedy"</item>
+        <item>"The Apollo 11 is the first manned mission to land on the Moon"</item>
+        <item>"The Woodstock Festival"</item>
+        <item>"ARPANET is created, the first version of the internet"</item>
+        <item>"The world population reaches 4 billion"</item>
+        <item>"The Fall of Saigon sets the end of the War in Vietnam"</item>
+        <item>"Birth of Apple"</item>
+        <item>"Start of the War in Afghanistan"</item>
+        <item>"China introduces the single child policy"</item>
+        <item>"Start of the War in Iran-Iraq"</item>
+
+        <item>"Murder of John Lennon"</item>
+        <item>"First travel in orbit of the Space Shuttle"</item>
+        <item>"The nuclear disaster of Chernobyl" </item>
+        <item>"The world population reaches 5 billion"</item>
+        <item>"End of the Iran-Iraq war"</item>
+        <item>"End of the Arturo Pinochet dictatorship in Chile"</item>
+        <item>"Start of the construction of the Channel Tunnel"</item>
+        <item>"George W. Bush is elected President of the United States"</item>
+        <item>"Fall of the Berlin War"</item>
+        <item>"Invention of the World Wide Web"</item>
+
+        <item>"Launch of the telescope Hubble"</item>
+        <item>"Start of the Gulf War"</item>
+        <item>"The end of the Sovetic Union leads to the creation of 15 independent states"</item>
+        <item>"The Treaty of Maastricht creates the European Union"</item>
+        <item>"Bill Clinton is elected President of the United States"</item>
+        <item>"The election of Nelson Mandela set the end of apartheid in South Africa"</item>
+        <item>"Birth of Google"</item>
+        <item>"Introduction of the Euro"</item>
+        <item>"The War of Kosovo ends the Yugoslav Wars"</item>
+        <item>"The world population reaches 6 billion"</item>
+
+        <item>"Vladimir Puin becomes President of Russia"</item>
+        <item>"The International Space Station starts operating"</item>
+        <item>"The 9/11 terrorist attack on the World Trade Center"</item>
+        <item>"Start of the War on Terrorism in Afghanistan"</item>
+        <item>"Birth of Wikipedia"</item>
+        <item>"Start of the War in Iraq"</item>
+        <item>"Mark Zuckenberg creates Facebook"</item>
+        <item>"Angela Merel becomes the first female chancellor of Germany"</item>
+        <item>"Independence of Montenegro"</item>
+        <item>"Execution of Saddam Hussein"</item>
+
+        <item>"Apple launches the first iPhone"</item>
+        <item>"Barack Obama is elected president of the United States"</item>
+        <item>"Declaration of independence of Kosovo"</item>
+        <item>"Death of Michael Jackson"</item>
+        <item>"Inauguration of the Burj Khalifa, the tallest building in the World"</item>
+        <item>"Launch of the first iPad"</item>
+        <item>"Start of the Arab Spring, with revolutions in Egypt, Libya and Tunisia"</item>
+        <item>"An earthquake in Japan causes the nuclear disaster of Fukushima"</item>
+        <item>"End of the War in Iraq"</item>
+        <item>"The world population reaches 7 billion"</item>
+
+        <item>"Death of Osama Bin Laden and Muammar Gaddafi"</item>
+        <item>"Death of Steve Jobs"</item>
+        <item>"Discovery of the Higgs Boson"</item>
+        <item>"Felix Baumgartner is the first human to jump with a parachute from the Stratosphere"</item>
+    </string-array>
+
+
+    <string-array name="historyHard">
+        <item>"Destruction of the Temple in Jerusalem"</item>
+        <item>"The Roman Empire reaches is maximum territorial extent under Trajan"</item>
+        <item>"Costantinople becomes the capitol city of the Roman Empire"</item>
+        <item>"The sack of Rome by the Visigoths"</item>
+        <item>"Year one on the Islamic calender"</item>
+        <item>"First sack of english villages by the Vikings"</item>
+        <item>"The Great Schism between the Catholic Church and the Ortodox Church"</item>
+        <item>"Inauguration of the University of Oxford"</item>
+        <item>"Siege of Jerusalem during the first crusade"</item>
+        <item>"Murder of Thomas Becket in the Cathedral of Canterbury"</item>
+        <item>"In the Battle of Jaffa, King Richard I defeats the Sultan Saladin"</item>
+        <item>"Gengis Kahn becomes Great Kahn of the Mongol Empire"</item>
+        <item>"Marco Polo starts his first journey to Asia"</item>
+        <item>"Start of the Hundred Years War"</item>
+        <item>"The Black Plague starts spreading in Europe"</item>
+        <item>"Construction of the Forbidden City in Beijing is completed"</item>
+        <item>"Joan of Arc is burned at the stake"</item>
+        <item>"Construction of Machu Picchu is completed"</item>
+        <item>"The battle of Castillon is the last fight of the Hundred Years War"</item>
+        <item>"Start of the War of the Roses"</item>
+        <item>"The marriage between Ferdinand of Aragon marries Isabella of Castile unifies Spain"</item>
+        <item>"Start of the Spanish Inquisition"</item>
+        <item>"The spanish Reconquista ends with the surrender of Granada"</item>
+        <item>"The jews are expelled from Spain"</item>
+        <item>"Vincente Pinzon discovers Brazil"</item>
+        <item>"Leonardo da Vinci starts painting the Mona Lisa"</item>
+        <item>"Copernicus declares that the Sun is at the center of the solar system"</item>
+        <item>"Machiavelli writes The Prince"</item>
+        <item>"Martin Luther writes the 95 theses starting the Protestant Reformation"</item>
+        <item>"Hernan Cortes introduces cocoa in Spain"</item>
+        <item>"The sack of Rome by Charles V ends the Italian Reneissance"</item>
+        <item>"The Church of England separetes itself from the Roman Catholic Church"</item>
+        <item>"Mary Tudor becomes the first Queen of England"</item>
+        <item>"Inauguration of the University of Harvard"</item>
+        <item>"Michelangelo Buonarroti becomes the main architect of the St. Peter's Basilica"</item>
+        <item>"Start of the Eighty Years War between Spain and the Netherland"</item>
+        <item>"The Spanish Conquistadores capture and kill the last king of the Incan Empire"</item>
+        <item>"Pope Gregory XIII introduces the Gregorian Calender"</item>
+        <item>"The Edict of Nantes end the French Wars of Religion"</item>
+        <item>"Giordano Bruno is burned at the stake"</item>
+        <item>"The Defenestration of Prague"</item>
+        <item>"Louis XIV is elected king of France"</item>
+        <item>"The Dutch East India Company founds Cape Town"</item>
+        <item>"Inauguration of the British Museum"</item>
+        <item>"The first shipment of coffee arrives in Amsterdam"</item>
+        <item>"James Cook explores and maps Australia and New Zealand"</item>
+        <item>"Great Britain and the Kingdom of Ireland unite to form the United Kingdom"</item>
+        <item>"The United Kingdom abolishes the slave trade"</item>
+        <item>"The eruption of Mount Tambora is the strongest ever to be recorded"</item>
+        <item>"Foundation of Liberia, a state for the freed american slaves"</item>
+        <item>"The Battle of Alamo ends with the defeat of the Texians"</item>
+        <item>"First publication of the Communist Manifesto"</item>
+        <item>"Construction of the Big Ben is completed"</item>
+        <item>"Giuseppe Garibaldi leads the Expedition of the Thousand"</item>
+        <item>"Construction of the Suez Canal starts"</item>
+        <item>"Formation of the International Red Cross"</item>
+        <item>"The United States of America acquire Alaska from Russia"</item>
+        <item>"Creation of the Yellowstone Park"</item>
+        <item>"Abolition of the order of the samurai in Japan"</item>
+        <item>"The British East India Company is dismantled"</item>
+        <item>"Invasion and occupation of Egypt by the United Kingdom"</item>
+        <item>"The Moulin Rouge opens in Paris"</item>
+        <item>"Independence of Luxemburg"</item>
+        <item>"Italy annexes Eritrea"</item>
+        <item>"Start of the Klondike Gold Rush"</item>
+        <item>"Hawaii officially becomes part of the United States of America"</item>
+        <item>"The first Tour the France is held"</item>
+        <item>"Roald Amundsen is the first man to reach the South Pole"</item>
+        <item>"The Armenian Genocide perpetuated by the Ottoman Empire"</item>
+        <item>"Battle of Verdun"</item>
+        <item>"Battle of Caporetto"</item>
+        <item>"October Revolution in Russia"</item>
+        <item>"Separetion between Ireland and North Ireland"</item>
+        <item>"Start of the Irish Civil War"</item>
+        <item>"Ankara replaces Istanbul as the capital of Turkey"</item>
+        <item>"Vatican City is acknowledged as an independent state"</item>
+        <item>"Independence of South Africa"</item>
+        <item>"Persia becomes Iran"</item>
+        <item>"Start of the Spanish Civil War"</item>
+        <item>"Japan invades China"</item>
+        <item>"Start of Operation Overlord"</item>
+        <item>"Start of the Nuremberg trials"</item>
+        <item>"Activation of the Marshall Plan"</item>
+        <item>"First spread of the virus Ebola"</item>
+
+    </string-array>
+
+
+    <string-array name="inventions">
+        <item>"The Seismograph"</item>
+        <item>"The first oil wells in China"</item>
+        <item>"The first sulphur matches"</item>
+        <item>"The toilet paper"</item>
+        <item>"The windmill"</item>
+        <item>"The first mechanical watch"</item>
+        <item>"The horseshoe"</item>
+        <item>"The musical notes"</item>
+        <item>"The fork"</item>
+        <item>"The compass"</item>
+
+        <item>"The helm"</item>
+        <item>"The first landmine"</item>
+        <item>"The Glasses"</item>
+        <item>"The first postal service"</item>
+        <item>"Sulfuric acid"</item>
+        <item>"The Cannon"</item>
+        <item>"Oil Colors"</item>
+        <item>"The movable type printing"</item>
+        <item>"The Stamp"</item>
+        <item>"Sand paper"</item>
+
+        <item>"The first newspaper"</item>
+        <item>"The cigarette"</item>
+        <item>"The thermometer"</item>
+        <item>"The microscope"</item>
+        <item>"The modern WC"</item>
+        <item>"The revolver"</item>
+        <item>"Binoculars"</item>
+        <item>"The first mechanical calculator"</item>
+        <item>"The barometer"</item>
+        <item>"The vacuum pump"</item>
+
+        <item>"The pendulum clock"</item>
+        <item>"The Champagne"</item>
+        <item>"The clarinet"</item>
+        <item>"The tuning fork"</item>
+        <item>"The alcool thermometer"</item>
+        <item>"The piano"</item>
+        <item>"The smallpox vaccine"</item>
+        <item>"The iron"</item>
+        <item>"The sign language for deaf-mutes"</item>
+        <item>"The first refrigeration machine"</item>
+
+        <item>"The air compressor"</item>
+        <item>"Sparkling water"</item>
+        <item>"The parachute"</item>
+        <item>"The fist steam ship"</item>
+        <item>"The hot air baloon"</item>
+        <item>"The thresher"</item>
+        <item>"The guillotine"</item>
+        <item>"The sewing machine"</item>
+        <item>"The telegraph"</item>
+        <item>"The hydaulic press"</item>
+
+        <item>"The carillon"</item>
+        <item>"The voltaic pile"</item>
+        <item>"The bus"</item>
+        <item>"The steam locomotive"</item>
+        <item>"The discvery of morphine"</item>
+        <item>"The first total anesthesia"</item>
+        <item>"Carbon paper"</item>
+        <item>"The modern fire extinguisher"</item>
+        <item>"The stethoscope"</item>
+        <item>"The kaleidoscope"</item>
+
+        <item>"The first rollercoaster"</item>
+        <item>"The pencil sharpener"</item>
+        <item>"The modern match"</item>
+        <item>"The harmonica"</item>
+        <item>"The reaper"</item>
+        <item>"The orthopedic plaster"</item>
+        <item>"The lawnmower"</item>
+        <item>"Discovery of the electromagnetic induction"</item>
+        <item>"The first electric engine"</item>
+        <item>"The morse code"</item>
+
+        <item>"Discovery of the photovoltaic effect"</item>
+        <item>"The first artificial fertilizer"</item>
+        <item>"Cement"</item>
+        <item>"The petrol engine"</item>
+        <item>"Nitroglycerine"</item>
+        <item>"French fries"</item>
+        <item>"Reinforced concrete"</item>
+        <item>"The first modern oil well"</item>
+        <item>"Color photography"</item>
+        <item>"The first machine to artificially produce ice"</item>
+
+        <item>"The first synthetic dye"</item>
+        <item>"The can opener"</item>
+        <item>"The first rechargeable battery"</item>
+        <item>"Production of the first carbon fibers"</item>
+        <item>"The telephone"</item>
+        <item>"Dynamite"</item>
+        <item>"Stainless steel"</item>
+        <item>"The first metal detector"</item>
+        <item>"The four-stroke engine"</item>
+        <item>"First patent for the telephone"</item>
+
+        <item>"The gramophone"</item>
+        <item>"The incandescent light bulb"</item>
+        <item>"The modern steam turbine"</item>
+        <item>"The modern bicycle"</item>
+        <item>"The first diesel car"</item>
+        <item>"The first wind turbine used to generate electricity"</item>
+        <item>"The ballpoint pen"</item>
+        <item>"The ZIP"</item>
+        <item>"The diesel engine"</item>
+        <item>"Polyethylene (plastic) is first synthetised"</item>
+
+        <item>"The first Zeppelin"</item>
+        <item>"The vacuum cleaner"</item>
+        <item>"Laminated glass, also called security glass"</item>
+        <item>"Callophane"</item>
+        <item>"The tank"</item>
+        <item>"The quartz clock"</item>
+        <item>"Penicillin, the first antibiotic"</item>
+        <item>"The FM Radio"</item>
+        <item>"Nylon"</item>
+        <item>"Discovery of the nuclear fission"</item>
+
+        <item>"The electric defibrillator"</item>
+        <item>"Polyester"</item>
+        <item>"The V-2, the first long range controllable missile"</item>
+        <item>"The atomic bomb"</item>
+        <item>"The ejectable seat for airplanes"</item>
+        <item>"Creation of the first hologram"</item>
+        <item>"The transistor"</item>
+        <item>"The first atomic clock"</item>
+        <item>"First use of atomic energy to produce electricity"</item>
+        <item>"Development of the first thermonuclear weapon"</item>
+
+        <item>"The first magnetic video recorder"</item>
+        <item>"Solar energy is first stored in a battery"</item>
+        <item>"The first hovercraft"</item>
+        <item>"The modern container"</item>
+        <item>"The first Hard Disk Drive"</item>
+        <item>"The first keyboard controlled PC"</item>
+        <item>"Launch of the first artificial satellite, the Sputnik 1"</item>
+        <item>"Creation of the first integrated circuit, also known as chip"</item>
+        <item>"The first functioning laser"</item>
+        <item>"The first electronic cigarette"</item>
+
+        <item>"Kevlar"</item>
+        <item>"Creation of ARPANET"</item>
+        <item>"The first pocket calculator"</item>
+        <item>"The Email"</item>
+        <item>"The Intel 4004, first commercialized microprocessor"</item>
+        <item>"The first video game console"</item>
+        <item>"The first graphic interface for a computer"</item>
+        <item>"The first capacitive touchscreen"</item>
+        <item>"The flash memory for computers"</item>
+        <item>"The first commercialized mobile phone"</item>
+
+        <item>"Introduction of the World Wide Web"</item>
+        <item>"Mosaic, the first web browser"</item>
+        <item>"The DVD"</item>
+        <item>"Bitcoin, the first cryptocurrency"</item>
+        <item>"Proof of the existence of the Higgs Boson"</item>
+        <item>"Confirmation of the existence of gravitational waves"</item>
+    </string-array>
+
+
+    <string-array name="moviesEasy">
+        <item>"Star Wars: The Last Jedi"</item>
+        <item>"Justice League"</item>
+        <item>"Thor Ragnarok"</item>
+        <item>"Blade Runner 2049"</item>
+        <item>"War for the Planet of the Apes"</item>
+        <item>"Spider-Man: Homecoming"</item>
+        <item>"Transformers: The Last Knight"</item>
+        <item>"Pirates of the Caribbean: Dead Men Tell No Tales"</item>
+        <item>"Wonder Woman"</item>
+        <item>"Alien: Covenant"</item>
+        <item>"Kong: Skull Island"</item>
+        <item>"Logan"</item>
+        <item>"Dunkirk"</item>
+        <item>"It"</item>
+        <item>"Guardians of the Galaxy Vol.2"</item>
+        <item>"The Fate of the Furious"</item>
+        <item>"Desplicable Me 3"</item>
+        <item>"Cars 3"</item>
+
+        <item>"Rogue One: A Star Wars Story"</item>
+        <item>"Assassin's Creed"</item>
+        <item>"Moana"</item>
+        <item>"Fantastic Beasts and Where to Find Them"</item>
+        <item>"Doctor Strange"</item>
+        <item>"Suicide Squad"</item>
+        <item>"Star Trek Beyond"</item>
+        <item>"Finding Dory"</item>
+        <item>"The Conjouring 2"</item>
+        <item>"X-Men: Apocalypse"</item>
+        <item>"Batman v Superman: Dawn of Justice"</item>
+        <item>"La Battaglia di Hacksaw Ridge"</item>
+        <item>"Deadpool"</item>
+        <item>"Split"</item>
+        <item>"La La Land"</item>
+        <item>"Captain America: Civil War"</item>
+        <item>"Zootopia"</item>
+
+        <item>"Avengers: Age of Ultron"</item>
+        <item>"Mad Max: Fury Road"</item>
+        <item>"Star Wars: The Force Awakens"</item>
+        <item>"Spectre"</item>
+        <item>"The Hateful Eight"</item>
+        <item>"Furious 7"</item>
+        <item>"Revenant"</item>
+        <item>"Fifty Shades of Grey"</item>
+        <item>"Minions"</item>
+        <item>"Jurassic World"</item>
+        <item>"The Martian"</item>
+        <item>"Ant-Man"</item>
+        <item>"Inside Out"</item>
+        <item>"The Hunger Games: Mockingjay - Part 2"</item>
+        <item>"Ted 2"</item>
+
+        <item>"American Sniper"</item>
+        <item>"Annabelle"</item>
+        <item>"Guardians of the Galaxy"</item>
+        <item>"Interstellar"</item>
+        <item>"Dawn of the Plant of the Apes"</item>
+        <item>"The Amazing Spider-Man 2"</item>
+        <item>"Divergent"</item>
+        <item>"X-Men: Days of Future Past"</item>
+        <item>"Edge of Tomorrow"</item>
+        <item>"Captain America: The Winter Soldier"</item>
+        <item>"The Hobbit: The Battle of the Five Armies"</item>
+        <item>"The Hunger Games: Mockingjay - Part 1"</item>
+        <item>"Ouija"</item>
+
+        <item>"The Conjuring"</item>
+        <item>"The Wolf of Wall Street"</item>
+        <item>"The Great Gatsby"</item>
+        <item>"Frozen"</item>
+        <item>"Thor: The Dark World"</item>
+        <item>"Man of Steel"</item>
+        <item>"Iron Man 3"</item>
+        <item>"Now You See Me"</item>
+        <item>"Pacific Rim"</item>
+        <item>"World War Z"</item>
+        <item>"The Wolverine"</item>
+        <item>"Gravity"</item>
+        <item>"The Hobbit: The Desolation of Smaug"</item>
+        <item>"The Hunger Games: Catching Fire"</item>
+        <item>"Desplicable Me 2"</item>
+
+        <item>"Prometheus"</item>
+        <item>"The Dark Knight Rises"</item>
+        <item>"The Avengers"</item>
+        <item>"Django Unchained"</item>
+        <item>"Skyfall"</item>
+        <item>"The Hunger Games"</item>
+        <item>"The Hobbit: An Unexpected Journey"</item>
+        <item>"The Amazing Spider-Man"</item>
+        <item>"Men in Black 3"</item>
+        <item>"Life of Pi"</item>
+        <item>"Ted"</item>
+        <item>"Madagascar 3"</item>
+
+
+        <item>"Harry Potter and the Deathly Hallows: Part 2"</item>
+        <item>"Rise of the Planet of the Apes"</item>
+        <item>"Captain America: The First Avanger"</item>
+        <item>"Thor"</item>
+        <item>"Pirates of the Caribbean: On Stranger Tides"</item>
+        <item>"X-Men: First Class"</item>
+        <item>"Cars 2"</item>
+        <item>"Fast Five"</item>
+        <item>"Transformers: Dark of the Moon"</item>
+        <item>"Kung Fu Panda 2"</item>
+
+
+        <item>"Inception"</item>
+        <item>"Harry Potter and the Deathly Hallows: Part 1"</item>
+        <item>"Shutter Island"</item>
+        <item>"Iron Man 2"</item>
+        <item>"Insidious"</item>
+        <item>"The Social Network"</item>
+        <item>"Desplicable Me"</item>
+        <item>"Toy Story 3"</item>
+        <item>How to Train Your Dragon"</item>
+
+        <item>"Inglorious Basterds"</item>
+        <item>"Avatar"</item>
+        <item>"Harry Potter and the Half-Blood Prince"</item>
+        <item>"The Hangover" </item>
+        <item>"X-Men Origins: Wolverine"</item>
+        <item>"2012"</item>
+        <item>"Sherlock Holmes"</item>
+        <item>"Up"</item>
+        <item>"Fast and Furious"</item>
+        <item>"Transformers: Revenge of the Fallen"</item>
+
+        <item>"The Dark Knight"</item>
+        <item>"Twilight"</item>
+        <item>"Iron Man"</item>
+        <item>"The Incredible Hulk"</item>
+        <item>"Indiana Jones and the Kingdom of the Crystal Skull"</item>
+        <item>"WALL-E"</item>
+        <item>"Kung Fu Panda"</item>
+        <item>"The Chronicles of Narnia: Prince Caspian" </item>
+        <item>"Madagascar 2"</item>
+
+        <item>"Harry Potter and the Order of the Phoenix"</item>
+        <item>"Transformers"</item>
+        <item>"Spider-Man 3"</item>
+        <item>"I Am Legend"</item>
+        <item>"Pirates of the Caribbean: At World's End"</item>
+        <item>"Ratatuille"</item>
+        <item>"Shrek the Third"</item>
+        <item>"The Simpsons Movie"</item>
+        <item>"Paranormal Activity"</item>
+
+        <item>"300"</item>
+        <item>"Casino Royale"</item>
+        <item>"Cars"</item>
+        <item>"Pirates of the Caribbean: Dead Man's Chest"</item>
+        <item>"The Fast and the Furious: Tokyo Drift"</item>
+        <item>"Night at the Museum"</item>
+        <item>"Superman Returns"</item>
+        <item>"X-Men: The Last Stand"</item>
+
+
+        <item>"Harry Potter and the Goblet of Fire"</item>
+        <item>"Batman Begins"</item>
+        <item>"V for Vendetta"</item>
+        <item>"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe"</item>
+        <item>"Charlie and the Chocolate Factory"</item>
+        <item>"War of the Worlds"</item>
+        <item>"Star Wars: Episode III - Revenge of the Sith"</item>
+        <item>"Madagascar"</item>
+
+        <item>"Troy"</item>
+        <item>"Harry Potter and the Prisoner of Azkaban"</item>
+        <item>"Saw"</item>
+        <item>"The Incredibles"</item>
+        <item>"Spider-Man 2"</item>
+        <item>"The Day After Tomorrow"</item>
+        <item>"Shrek 2"</item>
+        <item>"Kill Bill: vol. 2"</item>
+        <item>"The Passion of the Christ"</item>
+        <item>"I, Robot"</item>
+
+
+        <item>"The Lord of the Rings: The Return of the King"</item>
+        <item>"The Matrix Reloaded"</item>
+        <item>"Pirates of the Caribbean: The Curse of the Black Pearl"</item>
+        <item>"Kill Bill: vol. 1"</item>
+        <item>"Matrix Revolutions"</item>
+        <item>"Finding Nemo"</item>
+        <item>"Hulk"</item>
+        <item>"X-Men 2"</item>
+        <item>"2 Fast 2 Furious"</item>
+
+        <item>"Spider-Man"</item>
+        <item>"Harry Potter and the Chamber of Secrets"</item>
+        <item>"The Lord of the Rings: The Two Towers"</item>
+        <item>"The Pianist"</item>
+        <item>"The Ring"</item>
+        <item>"Star Wars: Episode II - Attack of the Clones"</item>
+        <item>"Lilo e Stitch"</item>
+        <item>"Men in Black II"</item>
+        <item>"Ice Age"</item>
+
+        <item>"Harry Potter and the Sorcerer's Stone"</item>
+        <item>"The Lord of the Rings: The Fellowship of the Ring"</item>
+        <item>"Ocean's Eleven"</item>
+        <item>"The Fast and the Furious"</item>
+        <item>"Pearl Harbor"</item>
+        <item>"Monsters, Inc."</item>
+        <item>"Shrek"</item>
+        <item> "Jurassic Park III"</item>
+
+        <item>"Gladiator"</item>
+        <item>"X-Men"</item>
+        <item>"Cast Away"</item>
+        <item>"Scary Movie"</item>
+        <item>"The Emperor's New Groove"</item>
+
+        <item>"The Matrix"</item>
+        <item>"Fight Club"</item>
+        <item>"The Sixth Sense"</item>
+        <item>"Star Wars: Episode I - The Phantom Menace"</item>
+        <item>"Tarzan"</item>
+        <item>"Toy Story 2"</item>
+
+        <item>"Saving Private Ryan"</item>
+        <item>"The Truman Show"</item>
+        <item>"Armageddon"</item>
+        <item>"Mulan"</item>
+
+        <item>"Titanic"</item>
+        <item>"Men in Black"</item>
+        <item>"Alien Resurrection"</item>
+        <item>"Batman and Robin"</item>
+        <item>"The Lost World: Jurassic Park"</item>
+
+        <item>"Independence Day"</item>
+        <item>"Mission: Impossible"</item>
+        <item>"Space Jam"</item>
+
+        <item>"Braveheart"</item>
+        <item>"Toy Story"</item>
+        <item>"Batman Forever"</item>
+        <item>"Pocahontas"</item>
+
+        <item>"Pulp Fiction"</item>
+        <item>"The Lion King"</item>
+        <item>"Forrest Gump"</item>
+
+        <item>"Schindler's List"</item>
+        <item>"Jurassic Park"</item>
+
+        <item>"Reservoir Dogs"</item>
+        <item>"Alien 3"</item>
+        <item>"Aladdin"</item>
+        <item>"The Last of the Mohicans"</item>
+        <item>"Batman Returns"</item>
+
+        <item>"Terminator 2: Judgment Day"</item>
+
+        <item>"The Godfather: Part III"</item>
+        <item>"Home Alone"</item>
+        <item>"Back to the Future Part III"</item>
+
+        <item>"Indiana Jones and the Last Crusade"</item>
+        <item>"Batman"</item>
+        <item>"The Little Mermaid"</item>
+        <item>"Back to the Future Part II"</item>
+        <item>"Ghostbusters II"</item>
+
+        <item>"Die Hard"</item>
+
+        <item>"Predator"</item>
+        <item>"The Full Metal Jacket"</item>
+        <item>"The Princess Bride"</item>
+
+        <item>"Stand By Me"</item>
+        <item>"Aliens"</item>
+
+        <item>"Back to the Future"</item>
+
+        <item>"The Terminator"</item>
+        <item>"Ghostbusters"</item>
+        <item>"The Karate Kid"</item>
+        <item>"Indiana Jones and the Temple of Doom"</item>
+        <item>"Gremlins"</item>
+
+        <item>"Star Wars: Episode VI - Return of the Jedi"</item>
+
+        <item>"Blade Runner"</item>
+        <item>"E.T. the Extra-Terrestrial"</item>
+        <item>"The Thing"</item>
+
+        <item>"Raiders of the Lost Ark"</item>
+
+        <item>"The Shining"</item>
+        <item>"Star Wars: Episode V - The Empire Strikes Back"</item>
+
+        <item>"Alien"</item>
+        <item>"Apocalypse Now"</item>
+
+        <item>"Superman"</item>
+        <item>"Jaws 2"</item>
+
+        <item>"Star Wars: Episode IV - A New Hope"</item>
+
+        <item>"Rocky"</item>
+
+        <item>"Jaws"</item>
+
+        <item>"The Godfather: Part II"</item>
+
+        <item>"The Exorcist"</item>
+
+        <item>"The Godfather"</item>
+
+        <item>"A Clockwork Orange"</item>
+
+        <item>"The AristoCats"</item>
+
+        <item>"2001: A Space Odyssey"</item>
+
+    </string-array>
+
+
+    <string-array name="moviesHard">
+
+        <item>"Lady Bird"</item>
+        <item>"Three Billboards Outside Ebbing, Missouri"</item>
+        <item>"The Post"</item>
+        <item>"The Shape of Water"</item>
+        <item>"Okja"</item>
+        <item>"Baby Driver"</item>
+        <item>"Get out"</item>
+        <item>"John Wick: Chapter 2"</item>
+
+        <item>"The BFG"</item>
+        <item>"Independence Day: Resurgence"</item>
+        <item>"Alice Through the Looking Glass"</item>
+        <item>"The Nice Guys"</item>
+        <item>"Moonlight"</item>
+        <item>"Sully"</item>
+        <item>"Warcraft"</item>
+        <item>"Arrival"</item>
+        <item>"Passengers"</item>
+        <item> "Manchester by the Sea" </item>
+
+        <item>"Terminator Genesys"</item>
+        <item>"Sicario"</item>
+        <item>"The Big Short"</item>
+        <item>"Straight Outta Compton"</item>
+        <item>"Pixels"</item>
+        <item>"Spotlight"</item>
+        <item>"Bridge of Spies"</item>
+        <item>"Steve Jobs"</item>
+        <item>"Creed" </item>
+
+
+        <item>"Boyhood"</item>
+        <item>"Selma"</item>
+        <item>"John Wick"</item>
+        <item>"Gone Girl"</item>
+        <item>"Birdman"</item>
+        <item>"Grand Budapest Hotel"</item>
+        <item>"Whiplash"</item>
+        <item>"Fury</item>
+        <item>"Ex Machina"</item>
+        <item>"The Lego Movie"</item>
+        <item>"The Imitation Game"</item>
+
+        <item>"Her"</item>
+        <item>"Prisoners"</item>
+        <item>"American Hustle"</item>
+        <item>"Dallas Buyers Club"</item>
+        <item>"Rush"</item>
+        <item>"Star Trek Into Darkness"</item>
+        <item>"Snowpiercer"</item>
+        <item>"Elysium"</item>
+
+        <item>"Cloud Atlas"</item>
+        <item>"Silver Linings Playbook"</item>
+        <item>"Pitch Perfect"</item>
+        <item>"21 Jump Street"</item>
+        <item>"Looper"</item>
+        <item>"Argo"</item>
+        <item>"Zero Dark Thirty"</item>
+        <item>"Brave"</item>
+        <item>"Lincoln"</item>
+
+        <item>"The Girl with the Dragon Tattoo"</item>
+        <item>"Midnight in Paris"</item>
+        <item>"Super 8"</item>
+        <item>"Rio"</item>
+        <item>"Mission: Impossible - Ghost Protocol"</item>
+        <item>"Green Lantern"</item>
+
+        <item>"Scott Pilgrim vs. the World"</item>
+        <item>"Buried"</item>
+        <item>"Black Swan"</item>
+        <item>"TRON: Legacy"</item>
+        <item>"Winter's Bone"</item>
+        <item>"The King's Speech"</item>
+
+        <item>"Watchmen"</item>
+        <item>"Star Trek"</item>
+        <item>"District 9"</item>
+        <item>"Fantastic Mr. Fox"</item>
+        <item>"Terminator Salvation"</item>
+
+        <item>"The Curious Case of Benjamin Button"</item>
+        <item>"Tropic Thunder"</item>
+        <item>"Quantum of Solace"</item>
+        <item>"The Hurt Locker"</item>
+        <item>"In Bruges"</item>
+        <item>"Cloverfield"</item>
+        <item>"Gran Torino"</item>
+        <item>"The Boy in the Striped Pajamas"</item>
+
+        <item>"No Country for Old Men"</item>
+        <item>"Zodiac"</item>
+        <item>"Into the Wild"</item>
+        <item>"Atonemet"</item>
+        <item>"There Will Be Blood"</item>
+        <item> "Gone Baby Gone"</item>
+        <item>"The Bourne Ultimatum"</item>
+
+        <item>"The Prestige"</item>
+        <item>"Pan's Labyrinth"</item>
+        <item>"Children of Men"</item>
+        <item>"The Illusionist"</item>
+        <item>"The Departed"</item>
+        <item>"Rocky Balboa"</item>
+
+        <item>"Sin City"</item>
+        <item>"The Hitchhiker's Guide to the Galaxy"</item>
+
+        <item>"Eternal Sunshine of the Spotless Mind"</item>
+        <item>"King Arthur"</item>
+        <item>"Million Dollar Baby"</item>
+        <item>"Ocean's Twelve"</item>
+        <item>"Sideways"</item>
+
+        <item>"Oldboy"</item>
+        <item>"Lost in Translation"</item>
+        <item>"Underworld"</item>
+        <item>"Terminator 3: Rise of the Machines"</item>
+        <item>"The Last Samurai"</item>
+        <item>"Johnny English"</item>
+
+        <item>"Catch Me If You Can"</item>
+        <item>"Minority Report"</item>
+        <item>"City of God"</item>
+        <item>"Insomnia" </item>
+        <item>"28 Days Later"</item>
+        <item>"xXx"</item>
+        <item>"The Bourne Identity"</item>
+
+        <item>"Donnie Darko"</item>
+        <item>"Mulholland Drive"</item>
+        <item>"Spirited Away"</item>
+        <item>"Amelie"</item>
+        <item>"Hannibal"</item>
+        <item>"Black Hawk Down"</item>
+        <item>"A.I. Artificial Intelligence"</item>
+
+        <item>"Requiem for a Dream"</item>
+        <item>"Memento"</item>
+        <item>"Battle Royale"</item>
+        <item>"Crouching Tiger, Hidden Dragon"</item>
+        <item>"American Psycho"</item>
+        <item>"Chicken Run"</item>
+
+        <item>"American Beauty"</item>
+        <item>"Eyes Wide Shut"</item>
+        <item>"American Pie"</item>
+        <item>"Being John Malkovich"</item>
+        <item>"The Iron Giant"</item>
+
+        <item>"American History X"</item>
+        <item> "The Thin Red Line"</item>
+        <item>"Shakespeare in Love"</item>
+        <item>"The Big Lebowski"</item>
+        <item>"Ronin"</item>
+        <item>"Rushmore"</item>
+
+        <item>"The Fifth Element"</item>
+        <item>"Good Will Hunting"</item>
+        <item>"Life is Beautiful"</item>
+        <item>"Starship Troopers"</item>
+        <item>"Jackie Brown"</item>
+        <item>"L.A. Confidential"</item>
+        <item>"Boogie Nights"</item>
+        <item>"Gattaca"</item>
+
+        <item>"Fargo"</item>
+        <item>"Trainspotting"</item>
+
+        <item>"Se7en"</item>
+        <item>"Heat"</item>
+        <item>"The Usual Suspect"</item>
+        <item>"GoldenEye"</item>
+        <item>"Sense and Sensibility"</item>
+
+        <item>"The Shawshank Redemption"</item>
+        <item>"Speed"</item>
+
+        <item>"Groundhog Day"</item>
+        <item>"The Nightmare Before Christmas"</item>
+        <item>"Cool Runnings"</item>
+
+        <item>"A Few Good Men"</item>
+        <item>"Army of Darkness"</item>
+        <item>"White Men Can't Jump"</item>
+        <item>"Malcolm X"</item>
+
+        <item>"The Silence of the Lambs"</item>
+        <item>"The Addams Family"</item>
+        <item>"Cape Fear"</item>
+
+        <item>"Goodfellas"</item>
+        <item>"Pretty Woman"</item>
+        <item>"Die Hard 2"</item>
+        <item>"Dances With Wolves"</item>
+        <item>"Edward Scissorhands"</item>
+        <item>"Awakenings"</item>
+
+        <item>"License to Kill"</item>
+
+        <item>"Who Framed Roger Rabbit"</item>
+        <item>"Rain Man"</item>
+        <item>"Cinema Paradiso"</item>
+
+        <item>"Dirty Dancing"</item>
+        <item>"Spaceballs"</item>
+        <item>"The Untouchables"</item>
+        <item>"Empire of the Sun"</item>
+        <item>"Lethal Weapon"</item>
+
+        <item>"Top Gun"</item>
+        <item>"The Name of the Rose"</item>
+        <item>"Platoon"</item>
+
+        <item>"Mad Max Beyond Thunderdome"</item>
+        <item>"The Goonies"</item>
+
+        <item>"A Nightmare on Elm Street"</item>
+        <item>"Once Upon a Time in America"</item>
+        <item>"The Neverending Story"</item>
+        <item>"1984"</item>
+
+        <item>"The Outsiders"</item>
+        <item>"Scarface"</item>
+
+        <item>"TRON"</item>
+        <item>"Poltergeist"</item>
+        <item>"Gandhi"</item>
+        <item>"Rocky III"</item>
+        <item>"Star Trek II: The Wrath of Khan"</item>
+
+        <item>"Excalibur"</item>
+        <item>"The Road Warrior"</item>
+        <item>"Das Boot"</item>
+
+        <item>"Airplane!"</item>
+        <item>"The Blues Brothers"</item>
+
+        <item> "Mad Max"</item>
+        <item> "The China Syndrome"</item>
+        <item>"Stalker"</item>
+        <item>"Escape from Alcatraz"</item>
+
+        <item>"The Deer Hunter"</item>
+
+        <item>"Close Encounters of the Third Kind"</item>
+        <item>"The Spy Who Loved Me"</item>
+
+        <item>"Taxi Driver"</item>
+        <item>"Carrie"</item>
+
+        <item>"One Flew Over the Cuckoo's Nest"</item>
+        <item> "Salò, or the 120 Days of Sodom"</item>
+        <item>"Monty Python and the Holy Grail"</item>
+
+        <item>"The Texas Chain Saw Massacre"</item>
+        <item>"Young Frankenstein"</item>
+        <item>"Chinatown"</item>
+
+        <item>"American Graffiti"</item>
+        <item>"Live and let Die"</item>
+
+        <item>"Solaris"</item>
+
+        <item>"Willy Wonka and the Chocolate Factory"</item>
+        <item>"French Connection"</item>
+
+        <item>"Easy Rider"</item>
+
+        <item>"Once Upon a Time in the West"</item>
+
+        <item>"Bonnie and Clyde"</item>
+        <item>"You Only Live Twice"</item>
+
+        <item>"The Good, the Bad and the Ugly"</item>
+
+        <item>"Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb"</item>
+        <item>"Goldfinger"</item>
+
+        <item> "Lawrence of Arabia"</item>
+
+        <item>"Breakfast at Tiffany's"</item>
+
+        <item>"Psycho"</item>
+        <item>"Spartacus"</item>
+    </string-array>
+
+
+    <string-array name="gamesEasy">
+        <item>"For Honor"</item>
+        <item>"Sniper Elite 4"</item>
+        <item>"Destiny 2"</item>
+        <item>"Middle-earth: Shadow of War"</item>
+        <item>"Assassin's Creed: Origins"</item>
+        <item>"Super Mario Odyssey"</item>
+        <item>"Call of Duty: WWII"</item>
+        <item>"Horizon Zero Dawn"</item>
+        <item>"Tom Clancy's Ghost Recon Wildlands"</item>
+        <item>"Mass Effect: Andromeda"</item>
+        <item>"Outlast 2"</item>
+        <item>"Dishonored: Death of the Outsider"</item>
+        <item>"Super Mario Run"</item>
+        <item>"Need for Speed Payback"</item>
+        <item>"Pokemon Ultra Sun and Ultra Moon"</item>
+        <item>"The Legend of Zelda: Breath of the Wild"</item>
+
+        <item>"Far Cry Primal"</item>
+        <item>"Tom Clancy's The Division"</item>
+        <item>"Dark Souls 3"</item>
+        <item>"Uncharted 4: A Thief's End"</item>
+        <item>"Overwatch"</item>
+        <item>"Dead by Daylight"</item>
+        <item>"Pokemon Go"</item>
+        <item>"No Man's Sky"</item>
+        <item>"Mafia III"</item>
+        <item>"Gears of War 4"</item>
+        <item>"Battlefield 1"</item>
+        <item>"Clash Royale"</item>
+        <item>"Titanfall 2"</item>
+        <item>"Call of Duty: Infinite Warfare"</item>
+        <item>"Dishonored 2"</item>
+        <item>"Watch Dogs 2"</item>
+        <item>"Pokemon Sun and Moon"</item>
+        <item>"Final Fantasy XV"</item>
+
+        <item>"Dying Light"</item>
+        <item>"Total War: Attila"</item>
+        <item>"Battlefield Hardline"</item>
+        <item>"Bloodborne"</item>
+        <item>"The Witcher 3: Wild Hunt"</item>
+        <item>"Batman: Arkham Knight"</item>
+        <item>"Rocket League"</item>
+        <item>"Metal Gear Solid: The Phantom Pain"</item>
+        <item>"Super Mario Maker"</item>
+        <item>"Assassin's Creed Syndicate"</item>
+        <item>"Need for Speed"</item>
+        <item>"Call of Duty: Black Ops III"</item>
+        <item>"Fallout 4"</item>
+        <item>"Rise of the Tomb Raider"</item>
+        <item>"Tom Clancy's Rainbow Six Siege"</item>
+
+        <item>"Dark Souls II"</item>
+        <item>"Titanfall"</item>
+        <item>"Hearthstone: Heroes of Warcraft"</item>
+        <item>"Wolfenstein: The New Order"</item>
+        <item>"Watch Dogs"</item>
+        <item>"Mario Kart 8"</item>
+        <item>"Sniper Elite 3"</item>
+        <item>"Super Smash Bros. Wii U"</item>
+        <item>"The Sims 4"</item>
+        <item>"Destiny"</item>
+        <item>"Alien Isolation"</item>
+        <item>"Call of Duty: Advanced Warfare"</item>
+        <item>"Assassin's Creed: Unity"</item>
+        <item>"Far Cry 4"</item>
+        <item>"Middle-earth: Shadow of Mordor"</item>
+        <item>"Pokemon Omega Rubi and Alpha Sapphire"</item>
+
+        <item>"Crysis 3"</item>
+        <item>"BioShock Infinite"</item>
+        <item>"The Last of Us"</item>
+        <item>"Dota 2"</item>
+        <item>"Payday 2"</item>
+        <item>"Saints Row IV"</item>
+        <item>"Outlast"</item>
+        <item>"ARMA 3"</item>
+        <item>"Grand Theft Auto V"</item>
+        <item>"Pokemon X and Y"</item>
+        <item>"Assassin's Creed IV: Black Flag"</item>
+        <item>"Flappy Bird"</item>
+        <item>"Super Mario 3D World"</item>
+        <item>"Battlefield 4"</item>
+        <item>"Playstation 4"</item>
+        <item>"Xbox One"</item>
+        <item>"Call of Duty: Ghosts"</item>
+
+        <item>"Diablo 3"</item>
+        <item>"Counter-Strike: Global Offensive"</item>
+        <item>"Borderlands 2"</item>
+        <item>"Dishonored"</item>
+        <item>"Clash of Clans"</item>
+        <item>"Assassin's Creed III</item>
+        <item>"Need for Speed: Most Wanted"</item>
+        <item>"Halo 4"</item>
+        <item>"Call of Duty: Black Ops II"</item>
+        <item>"Candy Crush Saga"</item>
+        <item>"Wii U" </item>
+        <item>"Far Cry 3"</item>
+
+        <item>"Pokemon Black and White"</item>
+        <item>"Crysis 2"</item>
+        <item>"Temple Run"</item>
+        <item>"Dark Souls"</item>
+        <item>"Batman: Arkham City"</item>
+        <item>"Temple Run"</item>
+        <item>"Battlefield 3"</item>
+        <item>"Call of Duty: Modern Warfare 3"</item>
+        <item>"Minecraft: Pocket Edition"</item>
+        <item>"The Elder Scrolls V: Skyrim"</item>
+        <item>"Jetpack Joyride"</item>
+        <item>"Assassin's Creed: Revelations"</item>
+        <item>"Minecraft" </item>
+
+        <item>"BioShock 2"</item>
+        <item>"Battlefield: Bad Company 2"</item>
+        <item>"Pokemon HeartGold and SoulSilver"</item>
+        <item>"Metro 2033"</item>
+        <item>"Red Dead Redemption"</item>
+        <item>"Halo: Reach"</item>
+        <item>"Civilization V"</item>
+        <item>"Super Mario Galaxy 2"</item>
+        <item>"Call of Duty: Black Ops"</item>
+        <item>"Fallout: New Vegas"</item>
+        <item>"Assassin's Creed: Brotherhood"</item>
+        <item>"Fruit Ninja" </item>
+        <item>"Plants vs Zombies"</item>
+        <item>"Need for Speed: Hot Pursuit"</item>
+
+        <item>"Saints Row 2"</item>
+        <item>"Halo Wars"</item>
+        <item>"The Sims 3"</item>
+        <item>"Batman: Arkham Asylum"</item>
+        <item>"Borderlands"</item>
+        <item>"League of Legends"</item>
+        <item>"New Super Mario Bros. Wii"</item>
+        <item>"Call of Duty: Modern Warfare 2"</item>
+        <item>"Assassin's Creed II"</item>
+        <item>"Paper Toss"</item>
+        <item>"Angry Birds"</item>
+
+        <item>"Super Smash Bros. Brawl"</item>
+        <item>"Grand Theft Auto IV"</item>
+        <item>"Battlefield: Bad Company"</item>
+        <item>"Pokemon Platinum"</item>
+        <item>"Far Cry 2"</item>
+        <item>"Fallout 3"</item>
+        <item>"Mario Kart Wii"</item>
+        <item>"Call of Duty: World at War"</item>
+
+        <item>"Bioshock"</item>
+        <item>"Halo 3"</item>
+        <item>"Portal"</item>
+        <item>"Team Fortress 2"</item>
+        <item>"Call of Duty 4: Modern Warfare"</item>
+        <item>"Mario and Sonic and the Olympic Games"</item>
+        <item>"Super Mario Galaxy"</item>
+        <item>"Crysis"</item>
+        <item>"Assassin's Creed"</item>
+
+        <item>"The Elder Scrolls IV: Oblivion"</item>
+        <item>"New Super Mario Bros."</item>
+        <item>"Call of Duty 3"</item>
+        <item>"Gears of War"</item>
+        <item>"PlayStation 3"</item>
+        <item>"Wii"</item>
+        <item> "Wii Sports"</item>
+
+        <item>"Xbox 360"</item>
+        <item>"Battlefield 2"</item>
+        <item>"Call of Duty 2"</item>
+        <item>"Mario Kart DS"</item>
+    </string-array>
+
+
+    <string-array name="gamesHard">
+        <item>"Nier: Automata"</item>
+        <item>"Resident Evil 7"</item>
+        <item>"Nier Automata"</item>
+        <item>"Splatoon 2"</item>
+        <item>"Cuphead"</item>
+        <item>"Wolfenstein II: The new Colossus"</item>
+        <item>"Sniper: Ghost Warrior 3"</item>
+        <item>"Injustice 2"</item>
+        <item>"Shadow Warrior 2"</item>
+        <item>"LawBreakers"</item>
+        <item>"Ark: Survival Evolved"</item>
+        <item>"Uncharted: The Lost Legacy"</item>
+        <item>"Doki Doki Literature Club"</item>
+        <item>"Total War: Warhammer II"</item>
+        <item>"The Evil Within 2"</item>
+        <item>"Hollow Knight"</item>
+        <item>"The Elders Scrolls: Legends"</item>
+        <item>"South Park: The Fractured but Whole"</item>
+
+        <item>"Darkest Dungeon"</item>
+        <item>"XCOM 2"</item>
+        <item>"Plants vs. Zombies: Garden Warfare 2"</item>
+        <item>"Super Hot"</item>
+        <item>"The Witness"</item>
+        <item>"Total War: Warhammer"</item>
+        <item>"Mirror's Edge Catalyst"</item>
+        <item>"Deus Ex: Mankind Divided"</item>
+        <item>"Killing Floor 2"</item>
+        <item>"The Last Guardian"</item>
+        <item>"Super Mario Run"</item>
+        <item>"Civilization VI"</item>
+
+        <item>"Hand of Fate"</item>
+        <item>"Dragon Ball XenoVerse"</item>
+        <item>"Cities: Skylines"</item>
+        <item>"Kerbal Space Program"</item>
+        <item>"Until Dawn"</item>
+        <item>"Wolfenstein: The Old Blood"</item>
+        <item>"Splatoon"</item>
+        <item>"Fallout Shelter"</item>
+        <item>"Heroes of the Storm"</item>
+        <item>"Mad Max"</item>
+        <item>"World of Warships"</item>
+        <item>"Ori and the Blind Forest"</item>
+        <item>"Undertale"</item>
+        <item>"Mortal Comabt X"</item>
+        <item>"Broforce"</item>
+        <item>"Halo 5: Guardians"</item>
+        <item>"Beyond: Two Souls"</item>
+        <item>"Just Cause 3"</item>
+
+        <item>"Plants vs. Zombies Garden Warfare"</item>
+        <item>"Thief"</item>
+        <item>"The Elder Scrolls Online"</item>
+        <item>"Transistor"</item>
+        <item>"Tropico 5"</item>
+        <item>"Goat Simulator"</item>
+        <item>"Shovel Knight"</item>
+        <item>"Metro Redux"</item>
+        <item>"Smite"</item>
+        <item>"Ryse: Son of Rome"</item>
+        <item>"Assassin's Creed: Rogue"</item>
+        <item>"The Wolf Among Us"</item>
+        <item>"This War of Mine"</item>
+        <item>"Civilizations: Beyond Earth"</item>
+        <item>"The Evil Within"</item>
+        <item>"Monument Valley"</item>
+        <item>"The Crew"</item>
+        <item>"Elite Dangerous"</item>
+        <item>"SimCity BuildIt" </item>
+        <item>"Assetto Corsa"</item>
+
+        <item>"Dead Island Riptide"</item>
+        <item>"Don't Starve"</item>
+        <item>"Far Cry 3: Blood Dragon"</item>
+        <item>"Metro: Last Light"</item>
+        <item>"Tom Clancy's Splinter Cell: Blacklist"</item>
+        <item>"Total War: Rome II"</item>
+        <item>"The Stanley Parable"</item>
+        <item>"Warface"</item>
+        <item>"Batman: Arkham Origins"</item>
+        <item>"State of Decay"</item>
+        <item>"Spec Ops: The Line"</item>
+        <item>"XCOM: Enemy Within"</item>
+        <item>"Killzone: Shadow Fall"</item>
+        <item>"Need for Speed: Rivals"</item>
+        <item>"Papers, Please"</item>
+        <item>"Rust"</item>
+        <item>"Beyond: Two Souls"</item>
+
+        <item>"Mass Effect 3"</item>
+        <item>"Sniper Elite V2"</item>
+        <item>"Max Payne 3"</item>
+        <item>"Spec Ops: The Line"</item>
+        <item>"Sleeping Dogs"</item>
+        <item>"XCOM: Enemy Unknown"</item>
+        <item>"Journey"</item>
+        <item>"Forza Horizon"</item>
+        <item>"Hitman: Absolution"</item>
+        <item>"Hotline Miami"</item>
+        <item>"PlanetSide 2"</item>
+
+        <item>"Total War: Shogun 2"</item>
+        <item>"Terraria"</item>
+        <item>"The Witcher 2: Assassins of Kings"</item>
+        <item>"The Legend of Zelda: Skyward Sword"</item>
+        <item>"Deus Ex: Human Revolution"</item>
+        <item>"Dead Space 2"</item>
+        <item>"L.A.Noire"</item>
+        <item>"Tropico 4"</item>
+        <item>"Portal 2"</item>
+        <item>"Mario Kart 7"</item>
+        <item>"The Binding of Isaac"</item>
+        <item>"Payday: The Heist"</item>
+        <item>"Dead Island"</item>
+        <item>"Saints Row: The Third"</item>
+
+        <item>"Mass Effect 2"</item>
+        <item>"Dante's Inferno"</item>
+        <item>"Heavy Rain"</item>
+        <item>"Final Fantasy XIII"</item>
+        <item>"Just Cause 2"</item>
+        <item>"Sniper: Ghost Warrior"</item>
+        <item>"Napoleon: Total War"</item>
+        <item>"Mafia II"</item>
+        <item>"Worms Reloaded"</item>
+        <item>"Super Meat Boy"</item>
+        <item>"Dead Rising 2" </item>
+        <item>"God of War III"</item>
+        <item>"Heavy Rain"</item>
+        <item>"Limbo"</item>
+        <item>"Super Mario All-Stars"</item>
+
+        <item>"Killzone 2"</item>
+        <item>"Killing Floor"</item>
+        <item>"Prototype"</item>
+        <item>"Bayonetta"</item>
+        <item>"Demon's Souls"</item>
+        <item>"Arma 2"</item>
+        <item>"Empire: Total War"</item>
+        <item>"Anno 1404"</item>
+        <item>"Left for Dead 2"</item>
+        <item>"Uncharted 2: Among Thieves"</item>
+        <item>"Tropico 3"</item>
+
+        <item>"Devil May Cry 4"</item>
+        <item>"Tom Clancy's Rainbow Six: Vegas 2"</item>
+        <item>"Mario Kart Wii"</item>
+        <item>"Star Wars: The Force Unleashed"</item>
+        <item>"Metal Gear Solid 4: Guns of the Patriots"</item>
+        <item>"Dead Space"</item>
+        <item>"Saints Row 2"</item>
+        <item>"Mirror's Edge"</item>
+        <item>"Left for Dead"</item>
+        <item>"Need for Speed: Undercover"</item>
+        <item>"Gears of War 2"</item>
+        <item>"Sonic Unleashed"</item>
+        <item>"Tomb Raider: Underworld"</item>
+
+        <item>"Europa Universalis III"</item>
+        <item>"God of War II"</item>
+        <item>"Super Paper Mario"</item>
+        <item>"Half-Life 2: Episode 2"</item>
+        <item>"Guitar Hero 2"</item>
+        <item>"The Witcher"</item>
+        <item>"Mass Effect"</item>
+        <item>"Need for Speed: ProStreet"</item>
+        <item>"Unreal Tournament 3"</item>
+
+        <item>"Final Fantasy II"</item>
+        <item>"Battlefield 2: Modern Combat"</item>
+        <item>"Half-Life 2: Episode One"</item>
+        <item>"Dead Rising"</item>
+        <item>"Medieval 2: Total War"</item>
+        <item>"Saints Row"</item>
+        <item>"Just Cause"</item>
+        <item>"Tom Clancy's Rainbow Six: Vegas"</item>
+
+        <item> "Age of Empires III: Age of Discovery"</item>
+        <item>"Civilization IV"</item>
+        <item>"Guitar Hero"</item>
+        <item>"Kingdom Hearts II"</item>
+    </string-array>
+
+
+    <string-array name="booksEasy">
+        <item>"Don Quixote - by Miguel de Cervantes"</item>
+        <item>"Ulysses - by James Joyce"</item>
+        <item>"War and Peace - by Leo Tolstoy"</item>
+        <item>"Moby Dick - by Herman Melville"</item>
+        <item>"The Devine Comedy - by Dante Alighieri"</item>
+        <item>"Hamlet - by William Shakespeare"</item>
+        <item>"The Adventures of Huckleberry Finn - by Mark Twain"</item>
+        <item>"The Great Gatsby - by F. Scott Fizgerald"</item>
+        <item>"Madame Bovary - by Gustave Flaubert"</item>
+        <item>"The Brothers Karamazov - by Fyodor Dostoyevsky"</item>
+
+        <item>"Pride and Prejudice - by Jane Austen"</item>
+        <item>"Nineteen Eighty Four - by George Orwell"</item>
+        <item>"Alice's Adventures in Wonderland - by Lewis Carrol"</item>
+        <item>"To the Lighthouse - by Virginia Woolf"</item>
+        <item>"Anna Karenina - by Leo Tolstoy"</item>
+        <item>"Gulliver's Travels - by Jonathan Swift"</item>
+        <item>"Heart of Darkness - by Joseph Conrad"</item>
+        <item>"The Canterbury Tales - by Geoffrey Chaucer"</item>
+        <item>"The Trial - by Franz Kafka"</item>
+        <item>"David Copperfield - by Charles Dickens"</item>
+
+        <item>"Mrs. Dalloway - by Virginia Woolf"</item>
+        <item>"Les Miserables - by Victor Hugo"</item>
+        <item>"The Magic Mountain - by Thomas Mann"</item>
+        <item>"Animal Farm - by George Orwell"</item>
+        <item>"The Metamorphosis - by Franz Kafka"</item>
+        <item>"The Old Man and the Sea - by Ernest Hemingway"</item>
+        <item>"Lord of the Flies - by William Golding"</item>
+        <item>"Frankestein - by Mary Shelley"</item>
+        <item>"Decameron - by Giovanni Boccaccio"</item>
+        <item>"The Scarlett Letter - by Nathaniel Hawthorne"</item>
+
+        <item>"Robinson Crusoe - by Daniel Defoe"</item>
+        <item>"The Tin Drum - by Günter Grass"</item>
+        <item>"Father Goriot - by Honoré de Balzac"</item>
+        <item>"The Lord of the Rings - by J.R.R. Tolkien"</item>
+        <item>"The Waste Lands - by T.S. Eliot"</item>
+        <item>"A Sentimental Education - by Gustave Flaubert"</item>
+        <item>"On the Road - by Jack Kerouac"</item>
+        <item>"The Little Prince - by Antoine de Saint-Exupery"</item>
+        <item>"Nostromo - by Joseph Conrad"</item>
+        <item>"Gone With the Wind - by Margaret Mitchell"</item>
+
+        <item>"The Master and Margarita - by Mikhail Bulgakov"</item>
+        <item>"The Flowers of Evil - by Charles Baudelaire"</item>
+        <item>"Twenty Thousand Miles Under the Sea - by Jules Verne"</item>
+        <item>"Tresure Island - by Robert Louis Stevenson "</item>
+        <item>"The Charterhouse of Parma - by Stendhal"</item>
+        <item>"The Plague - by Albert Camus"</item>
+        <item>"Doctor Zhivago - by Boris Pasternak"</item>
+        <item>"Dracula - by Bram Stoker"</item>
+        <item>"The Count of Monte Cristo - by Alexandre Dumas"</item>
+        <item>"The Picture of Dorian Gray - by Oscar Wilde"</item>
+
+        <item>"Confessions of Zeno - by Italo Svevo"</item>
+        <item>"Berlin Alexanderplatz - by Alfred Döblin"</item>
+        <item>"The Strange Case of Dr. Jekyll And Mr. Hyde - by Robert Louis"</item>
+        <item>"Harry Potter And The Phylosopher's Stone - by J.K. Rowling"</item>
+        <item>"The Call of the Wild - by Jack London"</item>
+        <item>"The Three Musketeers - by Alexandre Duams"</item>
+        <item>"Dubliners - by James Joyce"</item>
+        <item>"The Adventures of Oliver Twist - by Charlse Dickens"</item>
+        <item>"The Hitchiker's Guide to the Galaxy - by Douglas Adams"</item>
+        <item>"Bartleby the Scrivener - by Herman Melville"</item>
+
+        <item>"The Wonderful Wizard of Oz - by L. Frank Baum"</item>
+        <item>"A Christmas Carol - by Charles Dickens"</item>
+        <item>"The Adventures of Tom Sawyer - by Mark Twain"</item>
+        <item>"Norwegian Wood - by Haruki Murakami"</item>
+        <item>"The Betrothed - by Alessandro Manzoni"</item>
+        <item>"The Moons and the Bonfires - by Cesare Pavese"</item>
+        <item>"Murder on the Orient Express - by Agatha Christie"</item>
+        <item>"The Name of the Rose - by Umberto Eco"</item>
+        <item>"The Hobbit - by J.R.R. Tolkien"</item>
+        <item>"Ivanhoe - by Walter Scott"</item>
+
+        <item>"Do Androids Dream of Electric Sheeps? - by Philip K. Dick"</item>
+        <item>"Charlie and the Chocolate Factory - by Roald Dahl"</item>
+        <item>"The Shining - by Stephen King"</item>
+        <item>"Casino Royale - by Ian Fleming"</item>
+        <item>"A Game of Thrones - by George R.R. Martin"</item>
+        <item>"One Hundred Years of Solitude - by Gabriel Garcia Marquez"</item>
+        <item>"Crime and Punishment - by Fyodor Dostoyevsky"</item>
+        <item>"Wuthering Heights - by Emily Brontë"</item>
+        <item>"Lolita - by Vladimir Nabokov"</item>
+        <item>"The Catcher in the Rye - by J.D. Salinger"</item>
+
+        <item>"The Stranger - by  Albert Camus"</item>
+        <item>"Candide - by Voltaire"</item>
+        <item>"Beloved - by Toni Morrison"</item>
+        <item>"Paradise Lost - by John Milton"</item>
+        <item>"To Kill a Mockingbird - by Harper Lee"</item>
+        <item>"The Sun Also Rises - by Ernest Hemingway"</item>
+        <item>"The Idiot - by Fyodor Dostoyevsky"</item>
+        <item>"The Portrait of a Lady - by Henry James"</item>
+        <item>"Brave New World - by Aldous Huxley"</item>
+        <item>"Sons and Lovers - by D.H. Lawrence"</item>
+
+        <item>"Slaughterhouse-Five - by Kurt Vonnegut"</item>
+        <item>"The Age of Innocence - by Edith Wharton"</item>
+        <item>"Around the World in Eighty Days - by Jules Verne"</item>
+        <item>"Doctor Faustus - by Thomas Mann"</item>
+        <item>"Of Mice and Men - by John Steinbeck"</item>
+        <item>"All Quiet on the Western Front - by Erich Maria Remarque"</item>
+        <item>"The Sorrows of Young Werther - by Johann Wolfgang von Goethe"</item>
+        <item>"The Hound of the Baskervilles - by Arthur Conan Doyle"</item>
+        <item>"The Adventures of Sherlock Holmes - by Arthur Conan Doyle"</item>
+    </string-array>
+
+
+    <string-array name="albumsEasy">
+
+        <item>DAMN, Kendrick Lamar</item>
+        <item>24K Magic, Bruno Mars</item>
+        <item>Starboy, The Weekend</item>
+        <item>÷ (Divide), Ed Sheeran</item>
+        <item>More Life, Drake</item>
+        <item>Stoney, Post Malone</item>
+        <item>Culture, Migos</item>
+        <item>Blurryface, twenty one pilots</item>
+        <item>Memories...Do Not Open, The Chainsmokers</item>
+        <item>Illuminate, Shawn Mendes</item>
+
+        <item>ANTI, Rihanna</item>
+        <item>Evolve, Imagine Dragons</item>
+        <item>Everybody, Logic</item>
+        <item>25, Adele</item>
+        <item>4:44, Jay-Z</item>
+        <item>Dangerous Woman, Ariana Grande</item>
+        <item>X, Ed Sheeran</item>
+        <item>Views, Drake</item>
+        <item>Purpose, Justin Bieber</item>
+        <item>Lemonade, Beyoncé</item>
+
+        <item>Made in the A.M., One Direction</item>
+        <item>Beauty Behind The Madness, The Weekend</item>
+        <item>A Head Full Of Dreams, Coldplay</item>
+        <item>1989, Taylor Swift</item>
+        <item>This is Acting, Sia</item>
+        <item>21, Adele</item>
+        <item>The Life of Pablo, Kanye West</item>
+        <item>Vessel, twenty One pilots</item>
+        <item>Handwritten Shawn Mendes</item>
+        <item>Royalty, Chris Brown</item>
+
+        <item>In The Lonely Hour, Sam Smith</item>
+        <item>V, Maroon 5</item>
+        <item>The Pinkprint, Nicky Minaj</item>
+        <item>American Beauty / American Psycho, Fall Out Boy</item>
+        <item>To Pimp A Butterfly, Kendrick Lamar</item>
+        <item>My Everything, Ariana Grande</item>
+        <item>Dreams Worth More Than Money, Meek Mill</item>
+        <item>Smoke + Mirrors, Imagine Dragons</item>
+        <item>1000 Forms Of Fear, Sia</item>
+        <item>Night Visions, Imagine Dragons</item>
+
+        <item>Beyoncé, Beyoncé</item>
+        <item>The Marshall Mathers LP 2, Eminem</item>
+        <item>Pure Heroine, Lorde</item>
+        <item>Ghost Stories, Coldplay</item>
+        <item>Native, OneRepublic</item>
+        <item>Bangerz, Miley Cirus</item>
+        <item>Nothing Was The Same, Drake</item>
+        <item>G I R L, Pharrell Williams</item>
+        <item>Unorthodox Jukebox, Bruno Mars</item>
+        <item>Love In The Future, John Legend</item>
+
+        <item>Bad Blood, Bastille</item>
+        <item>AM, Arctic Monkeys</item>
+        <item>The 20/20 Experience, Justin Timberlake</item>
+        <item>Red, Taylor Swift</item>
+        <item>Take Me Home, One Direction</item>
+        <item>Unapologetic, Rihanna</item>
+        <item>Magna Carta... Holy Grail, Jay-Z</item>
+        <item>The Heist, Macklemore and Ryan Lewis</item>
+        <item>The Marshall Mathers LP 2, Eminem</item>
+        <item>Random Access Memories, Daft Punk</item>
+
+        <item>Overexposed, Maroon 5</item>
+        <item>Girl On Fire, Alicia Keys</item>
+        <item>Yeezus, Kanye West</item>
+        <item>Blurred Lines, Robin Thicke</item>
+        <item>Believe, Justin Bieber</item>
+        <item>+, Ed Sheeran</item>
+        <item>Take Care Drake</item>
+        <item>Talk That Talk, Rihanna</item>
+        <item>19, Adele</item>
+        <item>Teenage Dream, Katy Perry</item>
+
+        <item>Sorry For Party Rocking, LMFAO</item>
+        <item>Living Things, Linkin Park</item>
+        <item>MDNA, Madonna</item>
+        <item>Hands All Over, Maroon 5</item>
+        <item>Watch The Throne, Jay-Z Kanye West</item>
+        <item>Speak Now, Taylor Swift</item>
+        <item>Born This Way, Lady Gaga</item>
+        <item>Tha Carter IV, Lil Wayne</item>
+        <item>Loud, Rihanna</item>
+        <item>My Beautiful Dark Twisted Fantasy, Kanye West</item>
+
+        <item>Recovery, Eminem</item>
+        <item>The Beginning, The Black Eyed Peas</item>
+        <item>Thank Me Later, Drake</item>
+        <item>Invasion of Privacy, Cardi B</item>
+        <item>Man of the Woods, Justin Timberlake</item>
+        <item>Scorpion, Drake</item>
+        <item>Beerbongs and Bentleys, Post Malone</item>
+        <item>Everything is Love, The Carters</item>
+        <item>Kamikaze, Eminem</item>
+        <item>Astroworld, Travis Scott</item>
+
+        <item>Trench, Twenty One Pilots</item>
+    </string-array>
+
+
+    <string-array name="albumsHard">
+
+        <item>Sgt. Pepper\'s Lonely Hearts Club Band, The Beatles</item>
+        <item>Pet Sounds, The Beach Boys</item>
+        <item>Revolver, The Beatles</item>
+        <item>Highway 61 Revisited, Bob Dylan</item>
+        <item>Rubber Soul, The Beatles</item>
+        <item>What\'s Going On, Marvin Gaye</item>
+        <item>Exile on Main Street, The Rolling Stones</item>
+        <item>London Calling, The Clash</item>
+        <item>Blonde on Blonde, Bob Dylan</item>
+        <item>The White Album, The Beatles</item>
+
+        <item>King of Blue, Miles Davis</item>
+        <item>Abbey Road, The Beatles</item>
+        <item>Blood on the Tracks, Bob Dylan</item>
+        <item>Nevermind, Nirvana</item>
+        <item>Born to Run, Bruce Springsteen</item>
+        <item>Astral Weeks, Van Morrison</item>
+        <item>Thriller, Michael Jackson</item>
+        <item>Plastic Ono Band, John Lennon</item>
+        <item>Innervisions, Stevie Wonder</item>
+        <item>The Joshua Tree, U2</item>
+
+        <item>Who\'s Next, The Who</item>
+        <item>Led Zeppelin, Led Zeppelin</item>
+        <item>Bringing It All Back Home, Bob Dylan</item>
+        <item>Let It Bleed, The Rolling Stones</item>
+        <item>Hotel California, The Eagles</item>
+        <item>Please Please Me, The Beatles</item>
+        <item>The Dark Side of the Moon, Pink Floyd</item>
+        <item>Meet the Beatles!, The Beatles</item>
+        <item>Elvis Presley, Elvis Presley</item>
+        <item>Songs in the Key of Life, Stevie Wonder</item>
+
+        <item>Beggars Banquet, The Rolling Stones</item>
+        <item>Appetite for Destruction, Guns N\'Roses</item>
+        <item>Achtung Baby, U2</item>
+        <item>Sticky Fingers, The Rolling Stones</item>
+        <item>Kid A, RadioHead</item>
+        <item>Off the Wall, Michael Jackson</item>
+        <item>Led Zeppelin IV, Led Zeppelin</item>
+        <item>Physical Graffiti, Led Zeppelin</item>
+        <item>Purple Rain, Prince and the Revolution</item>
+        <item>Back in Black, AC/DC</item>
+
+        <item>Led Zeppelin II, Led Zeppelin</item>
+        <item>Imagine, John Lennon</item>
+        <item>The Clash, The Clash</item>
+        <item>Born in the U.S.A, Bruce Springsteen</item>
+        <item>The Wall, Pink Floyd</item>
+        <item>Talking Book, Stevie Wonder</item>
+        <item>Goodbye Yellow Brick Road, Elton John</item>
+        <item>Sign o the Times, Prince</item>
+        <item>Tommy, The Who</item>
+        <item>The Freewheelin\' Bob Dylan, Bob Dylan</item>
+        //50
+        <item>In the Wee Small Hours, Frank Sinatra</item>
+        <item>Modern Sounds in Country and Western Music, Ray Charles</item>
+        <item>Rocket to Russia, Ramones</item>
+        <item>Hunky Dory, David Bowie</item>
+        <item>Aftermath, The Rolling Stones</item>
+        <item>Loaded, The Velvet Underground</item>
+        <item>The Bends, Radiohead</item>
+        <item>The Who Sell Out, The Who</item>
+        <item>Out of Our Heads, The Rolling Stones</item>
+        <item>Late Registration, Kanye West</item>
+
+        <item>Catch a Fire, Bob Marley and the Wailers</item>
+        <item>Remain in Light, Talking Heads</item>
+        <item>Paranoid, Black Sabbath</item>
+        <item>The Wild, the Innocent and the E Street Shuffle, Bruce Springsteen</item>
+        <item>Ready to Die, The Notorious B.I.G</item>
+        <item>The Chronic, Dr.Dre</item>
+        <item>Parallel Lines, Blondie</item>
+        <item>Straight Outta Compton, N.W.A.</item>
+        <item>Houses of the Holy, Led Zeppelin</item>
+        <item>Santana, Santana</item>
+
+        <item>Darkness on the Edge of Town, Bruce Springsteen</item>
+        <item>Closer, Joy Division</item>
+        <item>Captain Fantastic and the Brown Dirt Cowboy, Elton John</item>
+        <item>Alive, Kiss</item>
+        <item>Electric Warrior, T.Rex</item>
+        <item>OK Computer, Radiohead</item>
+        <item>1999, Prince</item>
+        <item>Master of Puppets, Metallica</item>
+        <item>Exodus, Bob Marley and the Wailers</item>
+        <item>Live at Leeds, The Who</item>
+
+        <item>Desire, Bob Dylan</item>
+        <item>Rocks, Aerosmith</item>
+        <item>The Rolling Stones, Now!, The Rolling Stones</item>
+        <item>From Elvis in Memphis, Elvis Presley</item>
+        <item>Dookie, Green Day</item>
+        <item>Highway to Hell, AC/DC</item>
+        <item>Bad, Michael Jackson</item>
+        <item>Modern Times, Bob Dylan</item>
+        <item>Dirty Mind, Prince</item>
+        <item>Tea for the Tillerman, Cat Stevens</item>
+
+        <item>Ten, Pearl Jam</item>
+        <item>Wish You Were Here, Pink Floyd</item>
+        <item>Tattoo You, The Rolling Stones</item>
+        <item>War, U2</item>
+        <item>American Idiot, Green Day</item>
+        <item>Nebraska, Bruce Springsteen</item>
+        <item>Toys in the Attic, Aerosmith</item>
+        <item>A Night at the Opera, Queen</item>
+        <item>The Who Sings My Generation, The Who</item>
+        <item>Like a Prayer, Madonna</item>
+        //100
+        <item>Black Sabbath, Black Sabbathm</item>
+        <item>The Marshall Mathers LP, Eminem</item>
+        <item>Reasonable Doubt, Jay-Z</item>
+        <item>Low, David Bowie</item>
+        <item>The Blueprint, Jay-Z</item>
+        <item>The River, Bruce Springsteen</item>
+        <item>Metallica, Metallica</item>
+        <item>Trans-Europe Express, Kraftwerk</item>
+        <item>Whitney Houston, Whitney Houston</item>
+        <item>Quadrophenia, The Who</item>
+
+        <item>Some Girls, The Rolling Stones</item>
+        <item>The Slim Shady LP, Eminem</item>
+        <item>Alladin Sane, David Bowie</item>
+        <item>All That You Can\'t Leave Behind, U2</item>
+        <item>Musuic of My Mind, Stevie Wonder</item>
+        <item>The College Dropout, Kanye West</item>
+        <item>Master of Reality, Black Sabbath</item>
+        <item>John Wesley Harding, Bob Dylan</item>
+        <item>Blood Sugar Sex Magik, Red Hot Chili Peppers</item>
+        <item>Unplugged, Nirvana</item>
+
+        <item>Amnesiac, Radiohead</item>
+        <item>Ghost in the Machine, The Police</item>
+        <item>Station to Station, David Bowie</item>
+        <item>Slowhand, Eric Clapton</item>
+        <item>In Rainbows, Radiohead</item>
+        <item>Violator, Depeche Mode</item>
+        <item>The Piper at the Gates of Dawn, Pink Floyd</item>
+        <item>The Black Album, Jay-Z</item>
+        <item>My Beautiful Dark Twisted Fantasy, Kanye West</item>
+        <item>Honky Chateau, Elton John</item>
+
+        <item>Rage Against the Machine, Rage Against the Machine</item>
+        <item>Ray of Light, Madonna</item>
+        <item>Whatever People Say I Am, That\'s What I Am Not, Arctic Monkeys</item>
+        <item>Regatta de Blanc, The Police</item>
+        <item>Post, Björk</item>
+        <item>(What\'s the Story) Morning Glory?, Oasis</item>
+        <item>Love and Theft, Bob Dylan</item>
+        <item>Enter the Wu-Tang: 36 Chambers, Wu-Tang Clan</item>
+        <item>Let It Be, The Beatles</item>
+        <item>Californication, Red Hot Chili Peppers</item>
+
+        <item>461 Ocean Boulevard, Eric Clapton</item>
+        <item>Boy, U2</item>
+        <item>The Rising, Bruce Springsteen</item>
+        <item>Outlandos D\'Amour, The Police</item>
+        <item>In Utero, Nirvana</item>
+        <item>Back to Black, Amy Winehouse</item>
+        <item>A Rush of Blood to the Head, Coldplay</item>
+        <item>Faith, George Michael</item>
+        <item>Life After Death, The Notorious B.I.G.</item>
+        <item>Thriller, Michael Jackson</item>
+    </string-array>
+
+
+    <string-array name="singlesEasy">
+
+        <item>Shape of You, Ed Sheeran</item>
+        <item>Despacito, Luis Fonsi and Daddy Yankee</item>
+        <item>Humble., Kendrick Lamar</item>
+        <item>Closer, The Chainsmokers</item>
+        <item>Believer, Imagine Dragons</item>
+        <item>Congratulations, Post Malone</item>
+        <item>Stay, Zedd and Alessia Cara</item>
+        <item>Rockabye, Clean Bandit</item>
+        <item>Can\'t Stop The Feeling!, Justin Timberlake</item>
+        <item>Mi Gente, J Balvin and Willy William</item>
+
+        <item>Thunder, Imagine Dragons</item>
+        <item>T-Shirt, Migos</item>
+        <item>Mercy, Shawn Mendes</item>
+        <item>Rockstar Post Malone</item>
+        <item>Heathens, twenty one pilots</item>
+        <item>DNA., Kendrick Lamar</item>
+        <item>Passionfruit, Drake</item>
+        <item>Goosebumps, Travis Scott</item>
+        <item>Sorry, Justin Bieber</item>
+        <item>Work, Rihanna</item>
+
+        <item>Stressed Out, twenty one pilots</item>
+        <item>Panda, Desiigner</item>
+        <item>Hello, Adele</item>
+        <item>Don\'t Let Me Down, The Chainsmokers</item>
+        <item>Cheap Thrills, Sia</item>
+        <item>7 Years, Lukas Graham</item>
+        <item>I Took a Pill in Ibiza, Mike Posner</item>
+        <item>Stitches, Shawn Mendes</item>
+        <item>Hotline Bling, Drake</item>
+        <item>Dangerous Woman, Ariana Grande</item>
+
+        <item>Uptown Funk!, Mark Ronson</item>
+        <item>Thinking out Loud, Ed Sheeran</item>
+        <item>See You Again, Wiz Khalifa</item>
+        <item>Sugar, Maroon 5</item>
+        <item>Blank Space, Taylor Swift</item>
+        <item>Cheerleader, OMI</item>
+        <item>Love Me Like You Do, Ellies Goulding</item>
+        <item>Take Me To Church, Hozier</item>
+        <item>Bad Blood, Taylor Swift</item>
+        <item>Lean On, Major Lazer</item>
+
+        <item>Shake it Off, Taylor Swift</item>
+        <item>Where Are U Now, Skrillex and Diplo</item>
+        <item>I\'m Not The Only One, Sam Smith</item>
+        <item>All About That Bass, Meghan Trainor</item>
+        <item>Hey Mama, David Guetta</item>
+        <item>Centuries, Fall Out Boy</item>
+        <item>Happy, Pharrell Williams</item>
+        <item>Dark Horse, Katy Perry</item>
+        <item>All Of Me, John Legend</item>
+        <item>Counting Stars, OneRepublic</item>
+
+        <item>Talk Dirty, Jason Derulo</item>
+        <item>Timber, Pitbull</item>
+        <item>Pompeii, Bastille</item>
+        <item>Turn Down For What, DJ Snake</item>
+        <item>The Monster, Eminem and Rihanna</item>
+        <item>Let Her Go, Passenger</item>
+        <item>Royals, Lorde</item>
+        <item>Wake Me Up!, Avicii</item>
+        <item>Demons, Imagine Dragons</item>
+        <item>Chandelier, Sia</item>
+
+        <item>Black Widow, Iggy Azalea</item>
+        <item>Summer, Calvin Harris</item>
+        <item>Drunk in Love, Beyonce and Jay-Z</item>
+        <item>Anaconda, Nicky Minaj</item>
+        <item>Bailando, Enrique Iglesias</item>
+        <item>Burn, Ellie Goulding</item>
+        <item>Wiggle, Jason Derulo</item>
+        <item>Rather Be, Clean Bandit</item>
+        <item>Wrecking Ball, Miley Cirus</item>
+        <item>A Sky Full Of Stars, Coldplay</item>
+
+        <item>Radioactive, Imagine Dragons</item>
+        <item>Thrift Shop, Macklemore and Ryan Lewis</item>
+        <item>Blurred Lines, Robin Thicke</item>
+        <item>Harlem Shake, Baauer</item>
+        <item>Can\'t Hold Us, Macklemore and Ryan Lewis</item>
+        <item>Mirrors, Justin Timberlake</item>
+        <item>Roar, Katy Perry</item>
+        <item>Get Lucky, Daft Punk</item>
+        <item>We Can\'t Stop, Miley Cyrus</item>
+        <item>Scream and Shout, will.i.am</item>
+
+        <item>Sail, AWOLNATION</item>
+        <item>Don\'t You Worry Child, Swedish House Mafia</item>
+        <item>Diamonds, Rihanna</item>
+        <item>Safe and Sound, Capital Cities</item>
+        <item>Treasure, Bruno Mars</item>
+        <item>Started From The Bottom, Drake</item>
+        <item>Feel This Moment, Putbull</item>
+        <item>Applause, Lady Gaga</item>
+        <item>Same Love, Macklemore and Ryan Lewis</item>
+        <item>Girl on Fire, Alicia Keys</item>
+
+        <item>Gangnam Style, PSY</item>
+        <item>I Need Your Love, Calvin Harris</item>
+        <item>Die Young, Ke$ha</item>
+        <item>Demons, Imagine Dragons</item>
+        <item>I Cry, Flo Rida</item>
+        <item>Little Talks, Of Monsters And Men</item>
+        <item>Somebody That I Used To Know, Gotye</item>
+        <item>Call Me Maybe, Carly Rae Jepsen</item>
+        <item>Payphone, Maroon 5</item>
+        <item>Lights, Ellie Goulding</item>
+
+        <item>Glad You Came, The Wanted</item>
+        <item>We Found Love, Rihanna</item>
+        <item>Starships, Nicki Minaj</item>
+        <item>Set Fire To The Rain, Adele</item>
+        <item>Sexy And I Know It, LMFAO</item>
+        <item>Wide Awake, Katy Perry</item>
+        <item>Whistle, Flo Rida</item>
+        <item>Titanium, David Guetta</item>
+        <item>Party Rock Anthem, LMFAO</item>
+        <item>Young, Wild and Free, Snoop Dogg and Wiz Khalifa</item>
+
+        <item>Moves Like Jagger, Maroon 5</item>
+        <item>International Love, Pitbull</item>
+        <item>Without You, David Guetta</item>
+        <item>Paradise, Coldplay</item>
+        <item>Rolling In The Deep, Adele</item>
+        <item>Work Hard, Play Hard, Wiz Khalifa</item>
+        <item>Let Me Love You, Ne-Yo</item>
+        <item>Firework, Katy Perry</item>
+        <item>Give Me Everything, Pitbull</item>
+        <item>Just Can\'t Get Enough, The Black Eyed Peas</item>
+
+        <item>On The Floor, Jennifer Lopez</item>
+        <item>Pumped Up Kicks, Foster The People</item>
+        <item>Last Friday Night, Katy Perry</item>
+        <item>Just The Way You Are, Bruno Mars</item>
+        <item>Born This Way, Lady Gaga</item>
+        <item>What\'s My Name?, Rihanna</item>
+        <item>Someone Like You, Adele</item>
+        <item>The Lazy Song, Bruno Mars</item>
+        <item>The Edge Of Glory, Lady Gaga</item>
+        <item>Black And Yellow, WIz Khalifa</item>
+
+        <item>The Time (Dirty Bit), The Black Eyed Peas</item>
+        <item>Stereo Love, Edward Maya</item>
+        <item>DJ Got Us Fallin\' In Love, Usher</item>
+        <item>Like A G6, Far East Movement</item>
+
+    </string-array>
+
+
+    <string-array name="singlesHard">
+
+        <item>Like a Rolling Stone, Bob Dylan</item>
+        <item>(I Can\'t Get No) Satisfaction, The Rolling Stones</item>
+        <item>Imagine, John Lennon</item>
+        <item>Jhonny B Goode, Chuck Berry</item>
+        <item>Hey Jude, The Beatles</item>
+        <item>Smells Like Teen Spirit, Nirvana</item>
+        <item>My Generation, The Who</item>
+        <item>Yesterday, The Beatles</item>
+        <item>London Calling, The Clash</item>
+        <item>I Want To Hold Your Hand, The Beatles</item>
+
+        <item>Hound Dog, Elvis Presley</item>
+        <item>Let It Be, The Beatles</item>
+        <item>Born To Run, Bruce Springsteen</item>
+        <item>Stairway to Heaven, Led Zeppelin</item>
+        <item>One, U2</item>
+        <item>No Woman No Cry, Bob Marley</item>
+        <item>Heroes, David Bowie</item>
+        <item>Hotel California, The Eagles</item>
+        <item>Still Haven\'t Found What I\'m Looking For, U2</item>
+        <item>Every Breath You Take, The Police</item>
+
+        <item>Superstition, Stevie Wonder</item>
+        <item>Billie Jean, Michael Jackson</item>
+        <item>Kashmir, Led Zeppelin</item>
+        <item>Your Song, Elton John</item>
+        <item>With Or Without You, U2</item>
+        <item>I Want You Back, The Jackson 5</item>
+        <item>Crazy In Love, Beyonce feat Jay-Z</item>
+        <item>Sweet Child Of Mine, Guns n\'Roses</item>
+        <item>Rehab, Amy Winehouse</item>
+        <item>Knockin\' on Heaven\'s Door, Bob Dylan</item>
+
+        <item>Stayin\' Alive, Bee Gees</item>
+        <item>Back In Black, AC/DC</item>
+        <item>Love Will Tear Us Apart, Joy Division</item>
+        <item>God Save The Queen, The Sex Pistols</item>
+        <item>Dancing Queen, Abba</item>
+        <item>Dream On, Aerosmith</item>
+        <item>99 Problems, Jay-Z</item>
+        <item>Losing My Religion, R.E.M.</item>
+        <item>Bohemian Rhapsody, Queen</item>
+        <item>The Sounds Of Silence, Simon And Garfunkel</item>
+
+        <item>Rocket Man, Elton John</item>
+        <item>Paper Planes, M.I.A.</item>
+        <item>Should I Stay or Should I Go, The Clash</item>
+        <item>Oh Pretty Woman, Roy Orbinson</item>
+        <item>Come Together, The Beatles</item>
+        <item>Stan, Eminem feat. Dido</item>
+        <item>Seven Nation Army, The White Stripes</item>
+        <item>Born In The U.S.A., Bruce Springsteen</item>
+        <item>Jesus Walks, Kanye West</item>
+        <item>Hallelujah, Jeff Buckley</item>
+
+        <item>Highway to Hell, AC/DC</item>
+        <item>Paranoid Android, Radiohead</item>
+        <item>Paranoid, Black Sabbath</item>
+        <item>Walk This Way, Aerosmith</item>
+        <item>Beautiful Day, U2</item>
+        <item>Spirit in the Sky, Norman Greenbaum</item>
+        <item>We Will Rock You, Queen</item>
+        <item>The End, The Doors</item>
+        <item>Fight the Power, Public Enemy</item>
+        <item>Wish You Were Here, Pink Floyd</item>
+
+        <item>Comfortably Numb, Pink Floyd</item>
+        <item>Iron Man, Black Sabbath</item>
+        <item>One More Time, Daft Punk</item>
+        <item>Like A Prayer, Madonna</item>
+        <item>Roxanne, The Police</item>
+        <item>Hit the Road Jack, Ray Charles</item>
+        <item>Wonderful World, Sam Cooke</item>
+        <item>Personal Jesus, Depeche Mode</item>
+        <item>All You Need is Love, The Beatles</item>
+        <item>Sweet Dreams (Are Made of This), Eurythmics</item>
+
+        <item>Tears in Heaven, Eric Clapton</item>
+        <item>California Love, Dr.Dre and 2Pac</item>
+        <item>In Da Club, 50 Cent</item>
+        <item>Smoke on the Water, Deep Purple</item>
+        <item>American Idiot, Green Day</item>
+        <item>Fuck tha Police, N.W.A</item>
+        <item>In Bloom, Nirvana</item>
+        <item>Umbrella, Rihanna feat Jay-Z</item>
+        <item>Enter Sandman, Metallica</item>
+        <item>Sweet Home Alabama, Lynryd Skynryrd</item>
+
+        <item>I Will Survive, Gloria Gaynor</item>
+        <item>Clocks, Coldplay</item>
+        <item>Welcome to the Jungle, Guns N\'Roses</item>
+        <item>Penny Lane, The Beatles</item>
+        <item>Under The Bridge, Red Hot Chili Peppers</item>
+        <item>Californication, Red Hot Chili Peppers</item>
+        <item>Everybody Hurts, R.E.M.</item>
+        <item>Shiny Happy People, R.E.M.</item>
+        <item>Man On The Moon, R.E.M</item>
+        <item>Africa, Toto</item>
+
+        <item>Eye of the Tiger, Survivor</item>
+        <item>Take Me Home, Country Roads, John Denver</item>
+        <item>My Way, Frank Sinatra</item>
+
+
+    </string-array>
+
+
+
+</resources>

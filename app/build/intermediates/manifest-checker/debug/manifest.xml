@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="wunderlabs.com.Millennio"
+    android:versionCode="10"
+    android:versionName="1.2.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="28" />
+
+    <supports-screens
+        android:largeScreens="false"
+        android:normalScreens="true"
+        android:smallScreens="true"
+        android:xlargeScreens="false" />
+
+    <!-- Include required permissions for Google Mobile Ads to run -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/icona"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/icona"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="wunderlabs.com.Millennio.splashActivity"
+            android:screenOrientation="portrait" >
+            <intent-filter android:label="boh" >
+                <action android:name="android.intent.action.VIEW" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="wunderlabs.com.Millennio.singleplayerGameActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="wunderlabs.com.Millennio.singleplayerStartActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="wunderlabs.com.Millennio.singleplayerResultActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="wunderlabs.com.Millennio.singleplayerAnswerActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="wunderlabs.com.Millennio.singleplayerCategoryActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="wunderlabs.com.Millennio.multiplayerCategoryActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="wunderlabs.com.Millennio.multiplayerGameActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="wunderlabs.com.Millennio.multiplayerStartp1Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="wunderlabs.com.Millennio.multiplayerStartp2Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="wunderlabs.com.Millennio.multiplayerAnswerActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="wunderlabs.com.Millennio.multiplayerResultActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="wunderlabs.com.Millennio.multiplayerStartActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="wunderlabs.com.Millennio.aMainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="wunderlabs.com.Millennio.tutorial1"
+            android:screenOrientation="portrait" />
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-6054126061208799~4555928851" />
+
+        <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent" />
+
+        <provider
+            android:name="com.google.android.gms.ads.MobileAdsInitProvider"
+            android:authorities="wunderlabs.com.Millennio.mobileadsinitprovider"
+            android:exported="false"
+            android:initOrder="100" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <provider
+            android:name="com.android.tools.ir.server.InstantRunContentProvider"
+            android:authorities="wunderlabs.com.Millennio.com.android.tools.ir.server.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/sfondo"
+    tools:context="wunderlabs.com.Millennio.singleplayerStartActivity"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/highScore"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="High Score"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:textColor="@color/white"
+            />
+
+        <TextView
+            android:id="@+id/highScoreInt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/highScore"
+            android:text="69"
+            android:gravity="center"
+            android:textSize="28sp"
+            android:textColor="@color/white"
+            />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_centerVertical="true"
+        android:layout_marginBottom="10dp"
+        android:layout_above="@id/title">
+
+        <ImageView
+            android:id="@+id/icon"
+            android:layout_width="90dp"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/album"
+            android:layout_height="wrap_content" />
+
+    </RelativeLayout>
+    
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:text="CATEGORIA"
+        android:textAllCaps="true"
+        android:textColor="@color/white"
+        android:paddingBottom="70dp"
+        android:textSize="26sp"
+        />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/title"
+        android:layout_marginTop="20dp"
+        android:gravity="center">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/leftButton"
+                android:layout_width="28dp"
+                android:layout_height="40dp"
+                android:layout_marginEnd="8dp"
+                android:background="@mipmap/ic_keyboard_arrow_left_white_24dp"/>
+
+            <TextView
+                android:id="@+id/difficulty"
+                android:layout_width="100dp"
+                android:gravity="center"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="FACILE"
+                android:textAllCaps="true"
+                android:textColor="@color/white"
+                android:layout_marginBottom="2dp"
+                android:textSize="20sp"
+                />
+
+            <Button
+                android:id="@+id/rightButton"
+                android:layout_width="28dp"
+                android:layout_height="40dp"
+                android:layout_marginStart="8dp"
+                android:background="@mipmap/ic_keyboard_arrow_right_white_24dp"/>
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:layout_alignParentBottom="true"
+        android:weightSum="20"
+        android:orientation="horizontal"
+        android:layout_marginBottom="80dp">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="4"/>
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="12">
+
+            <Button
+                android:id="@+id/startButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@null"
+                android:text="@string/START"
+                android:textColor="@color/white"
+                android:paddingBottom="4dp"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/shadow_173216"
+                android:alpha="0.43"/>
+
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="4"/>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/backButton"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:background="@mipmap/baseline_keyboard_backspace_white_24"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="16dp"
+        />
+
+</RelativeLayout>

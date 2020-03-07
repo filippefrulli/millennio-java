@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="wunderlabs.com.Millennio">
+
+    <supports-screens
+        android:largeScreens="false"
+        android:normalScreens="true"
+        android:smallScreens="true"
+        android:xlargeScreens="false" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/icona"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/icona"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".splashActivity"
+            android:screenOrientation="portrait">
+            <intent-filter android:label="boh">
+                <action android:name="android.intent.action.VIEW" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".singleplayerGameActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".singleplayerStartActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".singleplayerResultActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".singleplayerAnswerActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".singleplayerCategoryActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".multiplayerCategoryActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".multiplayerGameActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".multiplayerStartp1Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".multiplayerStartp2Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".multiplayerAnswerActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".multiplayerResultActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".multiplayerStartActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".aMainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".tutorial1"
+            android:screenOrientation="portrait"></activity>
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-6054126061208799~4555928851" />
+
+    </application>
+
+</manifest>
