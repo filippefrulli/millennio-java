@@ -1,5 +1,5 @@
 # millennio
 
-This is a quiz app developed for Android in Java
+This is a quiz app developed for Android in Java.
 
-The game is available on the Google Play Store at https://play.google.com/store/apps/details?id=wunderlabs.com.Millennio
+The game used to be available on the Google Play Store. A new version is in development using Flutter.
